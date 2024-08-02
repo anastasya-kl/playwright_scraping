@@ -1,0 +1,305 @@
+Name,Link,Protocols,TVL
+Ethereum,/chain/Ethereum,1136,"$56,693b"
+Tron,/chain/Tron,34,"$8,052b"
+Solana,/chain/Solana,151,"$5,026b"
+BSC,/chain/BSC,779,"$4,738b"
+Arbitrum,/chain/Arbitrum,672,"$3,089b"
+Base,/chain/Base,323,"$1,674b"
+Blast,/chain/Blast,135,"$1,136b"
+Avalanche,/chain/Avalanche,394,"$904,35m"
+Polygon,/chain/Polygon,564,"$890,44m"
+TON,/chain/TON,19,"$750,42m"
+Scroll,/chain/Scroll,87,"$740,92m"
+Optimism,/chain/Optimism,251,"$688,21m"
+Bitcoin,/chain/Bitcoin,24,"$680,88m"
+Linea,/chain/Linea,103,"$668,16m"
+Hyperliquid,/chain/Hyperliquid,2,"$635,95m"
+Mantle,/chain/Mantle,93,"$574,89m"
+zkLink Nova,/chain/zkLink%20Nova,18,"$508,12m"
+Mode,/chain/Mode,54,"$470,17m"
+Cronos,/chain/Cronos,114,"$435,12m"
+Sui,/chain/Sui,37,"$434,28m"
+Aptos,/chain/Aptos,44,"$397,5m"
+Bitlayer,/chain/Bitlayer,16,"$389,62m"
+PulseChain,/chain/PulseChain,44,"$317,58m"
+Thorchain,/chain/Thorchain,3,"$313,42m"
+Starknet,/chain/Starknet,27,"$277,66m"
+Gnosis,/chain/Gnosis,66,"$271,05m"
+Near,/chain/Near,24,"$241,04m"
+Cardano,/chain/Cardano,38,"$219,8m"
+Merlin,/chain/Merlin,19,"$202,11m"
+Rootstock,/chain/Rootstock,19,"$173,3m"
+CORE,/chain/CORE,42,"$168,34m"
+Kava,/chain/Kava,140,"$156,96m"
+dYdX,/chain/dYdX,2,"$156,36m"
+Ronin,/chain/Ronin,4,"$151,71m"
+Mixin,/chain/Mixin,10,"$123,87m"
+EOS,/chain/EOS,21,"$121,14m"
+MultiversX,/chain/MultiversX,22,"$103,74m"
+Osmosis,/chain/Osmosis,17,"$103,35m"
+Fusion,/chain/Fusion,3,"$102,9m"
+BSquared,/chain/BSquared,10,"$94,2m"
+zkSync Era,/chain/zkSync%20Era,117,"$93,46m"
+Celo,/chain/Celo,53,"$91,49m"
+Stacks,/chain/Stacks,12,"$88,24m"
+Sei,/chain/Sei,22,"$81,22m"
+Fantom,/chain/Fantom,330,"$79,1m"
+Algorand,/chain/Algorand,33,"$71,13m"
+ICP,/chain/ICP,10,"$69,59m"
+BounceBit,/chain/BounceBit,6,"$65,37m"
+Filecoin,/chain/Filecoin,21,"$60,83m"
+Hedera,/chain/Hedera,9,"$58,14m"
+K2,/chain/K2,2,"$56,56m"
+Metis,/chain/Metis,59,$55m
+Tezos,/chain/Tezos,20,"$52,6m"
+Manta,/chain/Manta,59,"$50,49m"
+Hydration,/chain/Hydration,1,"$49,93m"
+BOB,/chain/BOB,10,"$46,42m"
+DefiChain,/chain/DefiChain,3,"$39,39m"
+Moonbeam,/chain/Moonbeam,61,"$36,59m"
+Fraxtal,/chain/Fraxtal,11,"$35,6m"
+Klaytn,/chain/Klaytn,54,"$34,84m"
+Kujira,/chain/Kujira,15,"$32,99m"
+Injective,/chain/Injective,21,"$32,48m"
+Radix,/chain/Radix,9,"$31,01m"
+Telos,/chain/Telos,39,"$30,8m"
+NEO,/chain/NEO,6,"$28,54m"
+opBNB,/chain/opBNB,38,"$28,19m"
+Astar,/chain/Astar,42,"$25,52m"
+Flow,/chain/Flow,6,"$23,37m"
+Mayachain,/chain/Mayachain,1,"$23,14m"
+Bifrost Network,/chain/Bifrost%20Network,4,"$22,75m"
+Canto,/chain/Canto,25,"$21,68m"
+MAP Protocol,/chain/MAP%20Protocol,9,"$20,74m"
+IoTeX,/chain/IoTeX,24,"$19,37m"
+Aurora,/chain/Aurora,60,"$18,14m"
+Zkfair,/chain/Zkfair,12,"$18,11m"
+Neutron,/chain/Neutron,6,"$16,63m"
+Bitcoincash,/chain/Bitcoincash,3,"$16,32m"
+Immutable zkEVM,/chain/Immutable%20zkEVM,3,"$15,75m"
+Taiko,/chain/Taiko,19,"$15,07m"
+Secret,/chain/Secret,9,"$13,9m"
+Conflux,/chain/Conflux,16,"$13,9m"
+Polygon zkEVM,/chain/Polygon%20zkEVM,67,"$12,89m"
+WEMIX3.0,/chain/WEMIX3.0,12,"$11,9m"
+Waves,/chain/Waves,9,"$11,38m"
+Icon,/chain/Icon,6,"$11,1m"
+Stellar,/chain/Stellar,7,"$11,07m"
+Venom,/chain/Venom,3,"$10,81m"
+FSC,/chain/FSC,1,"$10,71m"
+Chiliz,/chain/Chiliz,5,"$10,01m"
+X Layer,/chain/X%20Layer,24,"$9,93m"
+Bifrost,/chain/Bifrost,3,"$9,11m"
+EOS EVM,/chain/EOS%20EVM,8,"$9,08m"
+Alephium,/chain/Alephium,3,"$9,07m"
+XDC,/chain/XDC,11,"$8,66m"
+Flare,/chain/Flare,12,"$8,2m"
+Ontology,/chain/Ontology,3,"$8,08m"
+Proton,/chain/Proton,3,"$7,89m"
+Oraichain,/chain/Oraichain,3,"$7,46m"
+Onus,/chain/Onus,5,"$7,12m"
+Parallel,/chain/Parallel,5,"$6,47m"
+Carbon,/chain/Carbon,4,"$6,06m"
+Moonriver,/chain/Moonriver,57,"$5,72m"
+smartBCH,/chain/smartBCH,23,"$5,45m"
+DFS Network,/chain/DFS%20Network,1,"$5,09m"
+UX,/chain/UX,3,"$5,04m"
+Vite,/chain/Vite,4,"$4,95m"
+Astar zkEVM,/chain/Astar%20zkEVM,11,"$4,81m"
+Ultron,/chain/Ultron,3,"$4,49m"
+GodwokenV1,/chain/GodwokenV1,7,"$4,18m"
+re.al,/chain/re.al,7,"$3,98m"
+Interlay,/chain/Interlay,5,"$3,86m"
+Doge,/chain/Doge,4,"$3,84m"
+Vision,/chain/Vision,2,"$3,82m"
+Ergo,/chain/Ergo,9,"$3,8m"
+Terra2,/chain/Terra2,14,"$3,78m"
+Wanchain,/chain/Wanchain,9,"$3,76m"
+Nuls,/chain/Nuls,4,"$3,63m"
+Boba,/chain/Boba,27,"$3,6m"
+Litecoin,/chain/Litecoin,4,"$3,56m"
+DFK,/chain/DFK,2,"$3,53m"
+Persistence,/chain/Persistence,3,"$3,47m"
+Meter,/chain/Meter,13,"$3,44m"
+Beam,/chain/Beam,2,"$3,39m"
+Archway,/chain/Archway,5,"$3,32m"
+Elastos,/chain/Elastos,3,"$3,32m"
+Acala,/chain/Acala,8,"$3,08m"
+Horizen EON,/chain/Horizen%20EON,7,"$3,04m"
+Dogechain,/chain/Dogechain,45,"$2,99m"
+Oasis Sapphire,/chain/Oasis%20Sapphire,3,"$2,92m"
+Kroma,/chain/Kroma,6,"$2,81m"
+FunctionX,/chain/FunctionX,3,"$2,78m"
+Everscale,/chain/Everscale,2,"$2,72m"
+aelf,/chain/aelf,1,"$2,46m"
+Harmony,/chain/Harmony,60,"$2,28m"
+Terra Classic,/chain/Terra%20Classic,30,"$2,28m"
+OKTChain,/chain/OKTChain,37,"$2,13m"
+DeFiVerse,/chain/DeFiVerse,2,"$2,03m"
+Bahamut,/chain/Bahamut,4,"$2,02m"
+Theta,/chain/Theta,5,"$1,99m"
+ShimmerEVM,/chain/ShimmerEVM,7,"$1,86m"
+ZetaChain,/chain/ZetaChain,19,"$1,78m"
+Hydra,/chain/Hydra,3,"$1,78m"
+XPLA,/chain/XPLA,2,"$1,69m"
+Fuse,/chain/Fuse,24,"$1,68m"
+KCC,/chain/KCC,28,"$1,65m"
+Songbird,/chain/Songbird,6,"$1,61m"
+Zilliqa,/chain/Zilliqa,7,"$1,61m"
+Arbitrum Nova,/chain/Arbitrum%20Nova,10,"$1,54m"
+Shibarium,/chain/Shibarium,14,"$1,36m"
+SXnetwork,/chain/SXnetwork,1,"$1,35m"
+Nolus,/chain/Nolus,1,"$1,34m"
+Equilibrium,/chain/Equilibrium,1,"$1,28m"
+Oasys,/chain/Oasys,3,"$1,27m"
+IOTA EVM,/chain/IOTA%20EVM,3,"$1,14m"
+Neon,/chain/Neon,11,"$1,14m"
+Velas,/chain/Velas,15,"$1,13m"
+Naka,/chain/Naka,1,"$1,01m"
+HAQQ,/chain/HAQQ,3,$1m
+Evmos,/chain/Evmos,23,$954 932
+Oasis Emerald,/chain/Oasis%20Emerald,19,$927 085
+Xai,/chain/Xai,3,$925 766
+Milkomeda C1,/chain/Milkomeda%20C1,21,$895 079
+Obyte,/chain/Obyte,7,$893 375
+RENEC,/chain/RENEC,1,$884 443
+CosmosHub,/chain/CosmosHub,4,$859 499
+Elysium,/chain/Elysium,1,$788 109
+Sanko,/chain/Sanko,3,$772 886
+BEVM,/chain/BEVM,7,$754 951
+ThunderCore,/chain/ThunderCore,10,$740 158
+Wax,/chain/Wax,3,$733 654
+SatoshiVM,/chain/SatoshiVM,1,$727 434
+Energi,/chain/Energi,1,$708 084
+LightLink,/chain/LightLink,3,$703 193
+Zora,/chain/Zora,4,$703 075
+Concordium,/chain/Concordium,1,$651 883
+Saakuru,/chain/Saakuru,1,$630 804
+Bostrom,/chain/Bostrom,1,$626 108
+Starcoin,/chain/Starcoin,3,$611 535
+Q Protocol,/chain/Q%20Protocol,4,$596 846
+SKALE Europa,/chain/SKALE%20Europa,6,$593 264
+VeChain,/chain/VeChain,2,$551 394
+NOS,/chain/NOS,1,$550 389
+Rangers,/chain/Rangers,2,$511 635
+Degen,/chain/Degen,9,$461 350
+Rollux,/chain/Rollux,2,$455 347
+Kadena,/chain/Kadena,5,$451 295
+Juno,/chain/Juno,10,$418 746
+EthereumClassic,/chain/EthereumClassic,10,$413 650
+inEVM,/chain/inEVM,7,$409 686
+CSC,/chain/CSC,5,$407 360
+Boba_Bnb,/chain/Boba_Bnb,2,$407 161
+XRPL,/chain/XRPL,4,$407 027
+Migaloo,/chain/Migaloo,3,$384 844
+Crab,/chain/Crab,1,$362 500
+Bittorrent,/chain/Bittorrent,15,$353 962
+Chihuahua,/chain/Chihuahua,3,$353 348
+Heiko,/chain/Heiko,5,$338 697
+Kintsugi,/chain/Kintsugi,1,$334 685
+DeFiChain EVM,/chain/DeFiChain%20EVM,3,$331 211
+Sora,/chain/Sora,2,$329 309
+ENULS,/chain/ENULS,3,$290 199
+Dash,/chain/Dash,1,$273 322
+Karura,/chain/Karura,5,$271 971
+Joltify,/chain/Joltify,2,$257 872
+EnergyWeb,/chain/EnergyWeb,1,$253 681
+Aura Network,/chain/Aura%20Network,1,$246 831
+Bitrock,/chain/Bitrock,3,$239 009
+Heco,/chain/Heco,50,$222 621
+Ancient8,/chain/Ancient8,2,$217 470
+Manta Atlantic,/chain/Manta%20Atlantic,1,$213 702
+Nahmii,/chain/Nahmii,1,$208 541
+Step,/chain/Step,2,$207 221
+Libre,/chain/Libre,1,$198 656
+Genesys,/chain/Genesys,1,$188 076
+Etherlink,/chain/Etherlink,2,$187 441
+Viction,/chain/Viction,6,$177 581
+Tombchain,/chain/Tombchain,1,$161 206
+Polkadex,/chain/Polkadex,1,$145 768
+Massa,/chain/Massa,1,$144 714
+Stargaze,/chain/Stargaze,3,$143 664
+MEER,/chain/MEER,1,$138 934
+Godwoken,/chain/Godwoken,3,$124 977
+Mint,/chain/Mint,1,$121 076
+Comdex,/chain/Comdex,6,$118 699
+Loop,/chain/Loop,2,$115 258
+AILayer,/chain/AILayer,1,$110 859
+Planq,/chain/Planq,2,$98 073
+Kardia,/chain/Kardia,7,$96 537
+EthereumPoW,/chain/EthereumPoW,18,$93 823
+MVC,/chain/MVC,1,$89 952
+Grove,/chain/Grove,1,$82 555
+Shiden,/chain/Shiden,7,$76 725
+Areon Network,/chain/Areon%20Network,1,$75 434
+Endurance,/chain/Endurance,3,$74 383
+Newton,/chain/Newton,1,$74 310
+Crescent,/chain/Crescent,2,$61 149
+Polkadot,/chain/Polkadot,3,$57 988
+Findora,/chain/Findora,5,$55 030
+RSS3,/chain/RSS3,1,$53 002
+ALV,/chain/ALV,2,$47 507
+Goerli,/chain/Goerli,1,$40 810
+Lukso,/chain/Lukso,2,$34 277
+Cyber,/chain/Cyber,2,$29 772
+Syscoin,/chain/Syscoin,4,$24 896
+JBC,/chain/JBC,3,$23 636
+REI,/chain/REI,6,$19 709
+Darwinia,/chain/Darwinia,1,$18 617
+Cube,/chain/Cube,3,$17 791
+Lachain,/chain/Lachain,3,$16 548
+ETHF,/chain/ETHF,1,$15 456
+MultiVAC,/chain/MultiVAC,3,$14 610
+HPB,/chain/HPB,1,$13 792
+GoChain,/chain/GoChain,1,$12 233
+Reya Network,/chain/Reya%20Network,2,$12 160
+Sifchain,/chain/Sifchain,1,$10 632
+Bitgert,/chain/Bitgert,12,$6 737
+Tenet,/chain/Tenet,2,$5 612
+OntologyEVM,/chain/OntologyEVM,4,$4 853
+Callisto,/chain/Callisto,1,$4 568
+Bitnet,/chain/Bitnet,1,$4 294
+REIchain,/chain/REIchain,1,$4 285
+Ham,/chain/Ham,1,$3 749
+Aeternity,/chain/Aeternity,1,$1 946
+Milkomeda A1,/chain/Milkomeda%20A1,3,$1 144
+Rari,/chain/Rari,2,"$977,95"
+Lung,/chain/Lung,1,"$701,49"
+Pego,/chain/Pego,2,"$551,04"
+Palm,/chain/Palm,2,"$540,32"
+AirDAO,/chain/AirDAO,2,"$149,21"
+DSC,/chain/DSC,1,"$1,49"
+Bitkub Chain,/chain/Bitkub%20Chain,1,"$0,84"
+Kusama,/chain/Kusama,1,$0
+Celestia,/chain/Celestia,2,$0
+Dymension,/chain/Dymension,1,$0
+Quicksilver,/chain/Quicksilver,1,$0
+Nibiru,/chain/Nibiru,1,$0
+Pokt,/chain/Pokt,1,$0
+Sommelier,/chain/Sommelier,1,$0
+Stride,/chain/Stride,1,$0
+Dexit,/chain/Dexit,3,$0
+Omax,/chain/Omax,2,$0
+Boba_Avax,/chain/Boba_Avax,1,$0
+Stafi,/chain/Stafi,1,$0
+OXFUN,/chain/OXFUN,1,$0
+Empire,/chain/Empire,1,$0
+Hoo,/chain/Hoo,4,$0
+Echelon,/chain/Echelon,5,$0
+CLV,/chain/CLV,6,$0
+zkSync Lite,/chain/zkSync%20Lite,3,$0
+CMP,/chain/CMP,1,$0
+Nova Network,/chain/Nova%20Network,2,$0
+Genshiro,/chain/Genshiro,1,$0
+Lamden,/chain/Lamden,1,$0
+Polis,/chain/Polis,1,$0
+ZYX,/chain/ZYX,1,$0
+Ubiq,/chain/Ubiq,1,$0
+Coti,/chain/Coti,1,$0
+Kekchain,/chain/Kekchain,3,$0
+MUUCHAIN,/chain/MUUCHAIN,1,$0
+Tlchain,/chain/Tlchain,1,$0
+Zeniq,/chain/Zeniq,1,$0
+Bitindi,/chain/Bitindi,2,$0
+Bone,/chain/Bone,1,$0
+LaChain Network,/chain/LaChain%20Network,1,$0

@@ -1,0 +1,6 @@
+{
+  "proxy_server": "",
+  "proxy_username": "",
+  "proxy_password": "",
+  "scrape_interval_minutes": 5
+}

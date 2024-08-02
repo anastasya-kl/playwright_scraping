@@ -1,0 +1,1548 @@
+2024-08-02 11:17:48,396 - INFO - Navigating...
+2024-08-02 11:17:53,884 - INFO - Navigated! Starting to scrape...
+2024-08-02 11:18:03,993 - INFO - Reached the bottom of the page or maximum scroll attempts
+2024-08-02 11:18:04,034 - INFO - Last element number: 304
+2024-08-02 11:18:06,073 - INFO - Scraped: Ethereum
+2024-08-02 11:18:06,104 - INFO - Scraped: Tron
+2024-08-02 11:18:06,126 - INFO - Scraped: Solana
+2024-08-02 11:18:06,130 - INFO - Scraped: BSC
+2024-08-02 11:18:06,158 - INFO - Scraped: Arbitrum
+2024-08-02 11:18:06,173 - INFO - Scraped: Base
+2024-08-02 11:18:08,270 - INFO - Scraped: Tron
+2024-08-02 11:18:08,291 - INFO - Scraped: Solana
+2024-08-02 11:18:08,311 - INFO - Scraped: BSC
+2024-08-02 11:18:08,325 - INFO - Scraped: Arbitrum
+2024-08-02 11:18:08,346 - INFO - Scraped: Base
+2024-08-02 11:18:08,374 - INFO - Scraped: Blast
+2024-08-02 11:18:08,395 - INFO - Scraped: Avalanche
+2024-08-02 11:18:08,415 - INFO - Scraped: Polygon
+2024-08-02 11:18:08,430 - INFO - Scraped: TON
+2024-08-02 11:18:08,451 - INFO - Scraped: Scroll
+2024-08-02 11:18:08,471 - INFO - Scraped: Optimism
+2024-08-02 11:18:08,492 - INFO - Scraped: Bitcoin
+2024-08-02 11:18:08,513 - INFO - Scraped: Linea
+2024-08-02 11:18:08,534 - INFO - Scraped: Hyperliquid
+2024-08-02 11:18:08,554 - INFO - Scraped: Mantle
+2024-08-02 11:18:08,575 - INFO - Scraped: zkLink Nova
+2024-08-02 11:18:08,589 - INFO - Scraped: Mode
+2024-08-02 11:18:08,610 - INFO - Scraped: Sui
+2024-08-02 11:18:08,631 - INFO - Scraped: Cronos
+2024-08-02 11:18:08,645 - INFO - Scraped: Aptos
+2024-08-02 11:18:08,665 - INFO - Scraped: Bitlayer
+2024-08-02 11:18:08,687 - INFO - Scraped: PulseChain
+2024-08-02 11:18:08,700 - INFO - Scraped: Thorchain
+2024-08-02 11:18:08,721 - INFO - Scraped: Starknet
+2024-08-02 11:18:08,742 - INFO - Scraped: Gnosis
+2024-08-02 11:18:10,837 - INFO - Scraped: Bitlayer
+2024-08-02 11:18:10,856 - INFO - Scraped: PulseChain
+2024-08-02 11:18:10,859 - INFO - Scraped: Thorchain
+2024-08-02 11:18:10,890 - INFO - Scraped: Starknet
+2024-08-02 11:18:10,906 - INFO - Scraped: Gnosis
+2024-08-02 11:18:10,921 - INFO - Scraped: Near
+2024-08-02 11:18:10,937 - INFO - Scraped: Cardano
+2024-08-02 11:18:10,966 - INFO - Scraped: Merlin
+2024-08-02 11:18:10,988 - INFO - Scraped: Rootstock
+2024-08-02 11:18:11,010 - INFO - Scraped: CORE
+2024-08-02 11:18:11,033 - INFO - Scraped: Kava
+2024-08-02 11:18:11,053 - INFO - Scraped: dYdX
+2024-08-02 11:18:11,074 - INFO - Scraped: Ronin
+2024-08-02 11:18:11,095 - INFO - Scraped: Mixin
+2024-08-02 11:18:11,114 - INFO - Scraped: EOS
+2024-08-02 11:18:11,135 - INFO - Scraped: MultiversX
+2024-08-02 11:18:11,153 - INFO - Scraped: Fusion
+2024-08-02 11:18:11,176 - INFO - Scraped: Osmosis
+2024-08-02 11:18:11,186 - INFO - Scraped: BSquared
+2024-08-02 11:18:11,201 - INFO - Scraped: zkSync Era
+2024-08-02 11:18:11,217 - INFO - Scraped: Celo
+2024-08-02 11:18:11,233 - INFO - Scraped: Stacks
+2024-08-02 11:18:11,265 - INFO - Scraped: Fantom
+2024-08-02 11:18:11,292 - INFO - Scraped: Sei
+2024-08-02 11:18:11,316 - INFO - Scraped: Algorand
+2024-08-02 11:18:13,420 - INFO - Scraped: Celo
+2024-08-02 11:18:13,440 - INFO - Scraped: Stacks
+2024-08-02 11:18:13,460 - INFO - Scraped: Fantom
+2024-08-02 11:18:13,480 - INFO - Scraped: Sei
+2024-08-02 11:18:13,500 - INFO - Scraped: Algorand
+2024-08-02 11:18:13,521 - INFO - Scraped: ICP
+2024-08-02 11:18:13,538 - INFO - Scraped: BounceBit
+2024-08-02 11:18:13,555 - INFO - Scraped: Filecoin
+2024-08-02 11:18:13,571 - INFO - Scraped: Hedera
+2024-08-02 11:18:13,586 - INFO - Scraped: K2
+2024-08-02 11:18:13,602 - INFO - Scraped: Metis
+2024-08-02 11:18:13,617 - INFO - Scraped: Manta
+2024-08-02 11:18:13,644 - INFO - Scraped: Tezos
+2024-08-02 11:18:13,659 - INFO - Scraped: Hydration
+2024-08-02 11:18:13,684 - INFO - Scraped: BOB
+2024-08-02 11:18:13,708 - INFO - Scraped: DefiChain
+2024-08-02 11:18:13,725 - INFO - Scraped: Moonbeam
+2024-08-02 11:18:13,741 - INFO - Scraped: Fraxtal
+2024-08-02 11:18:13,757 - INFO - Scraped: Klaytn
+2024-08-02 11:18:13,788 - INFO - Scraped: Kujira
+2024-08-02 11:18:13,803 - INFO - Scraped: Injective
+2024-08-02 11:18:13,819 - INFO - Scraped: Radix
+2024-08-02 11:18:13,835 - INFO - Scraped: Telos
+2024-08-02 11:18:13,866 - INFO - Scraped: NEO
+2024-08-02 11:18:13,881 - INFO - Scraped: opBNB
+2024-08-02 11:18:15,948 - INFO - Scraped: Injective
+2024-08-02 11:18:15,979 - INFO - Scraped: Radix
+2024-08-02 11:18:15,995 - INFO - Scraped: Telos
+2024-08-02 11:18:16,019 - INFO - Scraped: NEO
+2024-08-02 11:18:16,026 - INFO - Scraped: opBNB
+2024-08-02 11:18:16,042 - INFO - Scraped: Astar
+2024-08-02 11:18:16,057 - INFO - Scraped: Flow
+2024-08-02 11:18:16,073 - INFO - Scraped: Mayachain
+2024-08-02 11:18:16,104 - INFO - Scraped: Bifrost Network
+2024-08-02 11:18:16,120 - INFO - Scraped: Canto
+2024-08-02 11:18:16,135 - INFO - Scraped: MAP Protocol
+2024-08-02 11:18:16,151 - INFO - Scraped: IoTeX
+2024-08-02 11:18:16,167 - INFO - Scraped: Aurora
+2024-08-02 11:18:16,196 - INFO - Scraped: Zkfair
+2024-08-02 11:18:16,207 - INFO - Scraped: Neutron
+2024-08-02 11:18:16,222 - INFO - Scraped: Bitcoincash
+2024-08-02 11:18:16,237 - INFO - Scraped: Immutable zkEVM
+2024-08-02 11:18:16,253 - INFO - Scraped: Taiko
+2024-08-02 11:18:16,284 - INFO - Scraped: Conflux
+2024-08-02 11:18:16,290 - INFO - Scraped: Secret
+2024-08-02 11:18:16,324 - INFO - Scraped: Polygon zkEVM
+2024-08-02 11:18:16,332 - INFO - Scraped: WEMIX3.0
+2024-08-02 11:18:16,347 - INFO - Scraped: Waves
+2024-08-02 11:18:16,378 - INFO - Scraped: Icon
+2024-08-02 11:18:16,393 - INFO - Scraped: Stellar
+2024-08-02 11:18:18,481 - INFO - Scraped: Polygon zkEVM
+2024-08-02 11:18:18,496 - INFO - Scraped: WEMIX3.0
+2024-08-02 11:18:18,528 - INFO - Scraped: Waves
+2024-08-02 11:18:18,543 - INFO - Scraped: Icon
+2024-08-02 11:18:18,559 - INFO - Scraped: Stellar
+2024-08-02 11:18:18,575 - INFO - Scraped: Venom
+2024-08-02 11:18:18,590 - INFO - Scraped: FSC
+2024-08-02 11:18:18,621 - INFO - Scraped: Chiliz
+2024-08-02 11:18:18,637 - INFO - Scraped: X Layer
+2024-08-02 11:18:18,653 - INFO - Scraped: Bifrost
+2024-08-02 11:18:18,668 - INFO - Scraped: EOS EVM
+2024-08-02 11:18:18,684 - INFO - Scraped: Alephium
+2024-08-02 11:18:18,700 - INFO - Scraped: XDC
+2024-08-02 11:18:18,715 - INFO - Scraped: Flare
+2024-08-02 11:18:18,731 - INFO - Scraped: Ontology
+2024-08-02 11:18:18,746 - INFO - Scraped: Proton
+2024-08-02 11:18:18,762 - INFO - Scraped: Oraichain
+2024-08-02 11:18:18,778 - INFO - Scraped: Onus
+2024-08-02 11:18:18,793 - INFO - Scraped: Parallel
+2024-08-02 11:18:18,826 - INFO - Scraped: Carbon
+2024-08-02 11:18:18,843 - INFO - Scraped: Moonriver
+2024-08-02 11:18:18,846 - INFO - Scraped: smartBCH
+2024-08-02 11:18:18,862 - INFO - Scraped: DFS Network
+2024-08-02 11:18:18,893 - INFO - Scraped: UX
+2024-08-02 11:18:18,909 - INFO - Scraped: Vite
+2024-08-02 11:18:20,997 - INFO - Scraped: Moonriver
+2024-08-02 11:18:21,013 - INFO - Scraped: smartBCH
+2024-08-02 11:18:21,036 - INFO - Scraped: DFS Network
+2024-08-02 11:18:21,054 - INFO - Scraped: UX
+2024-08-02 11:18:21,069 - INFO - Scraped: Vite
+2024-08-02 11:18:21,085 - INFO - Scraped: Astar zkEVM
+2024-08-02 11:18:21,101 - INFO - Scraped: Ultron
+2024-08-02 11:18:21,132 - INFO - Scraped: GodwokenV1
+2024-08-02 11:18:21,147 - INFO - Scraped: re.al
+2024-08-02 11:18:21,163 - INFO - Scraped: Interlay
+2024-08-02 11:18:21,179 - INFO - Scraped: Vision
+2024-08-02 11:18:21,194 - INFO - Scraped: Doge
+2024-08-02 11:18:21,210 - INFO - Scraped: Ergo
+2024-08-02 11:18:21,241 - INFO - Scraped: Terra2
+2024-08-02 11:18:21,257 - INFO - Scraped: Wanchain
+2024-08-02 11:18:21,288 - INFO - Scraped: Nuls
+2024-08-02 11:18:21,311 - INFO - Scraped: Boba
+2024-08-02 11:18:21,326 - INFO - Scraped: Litecoin
+2024-08-02 11:18:21,355 - INFO - Scraped: DFK
+2024-08-02 11:18:21,373 - INFO - Scraped: Persistence
+2024-08-02 11:18:21,388 - INFO - Scraped: Meter
+2024-08-02 11:18:21,404 - INFO - Scraped: Beam
+2024-08-02 11:18:21,419 - INFO - Scraped: Archway
+2024-08-02 11:18:21,451 - INFO - Scraped: Elastos
+2024-08-02 11:18:21,466 - INFO - Scraped: Horizen EON
+2024-08-02 11:18:23,555 - INFO - Scraped: Meter
+2024-08-02 11:18:23,570 - INFO - Scraped: Beam
+2024-08-02 11:18:23,586 - INFO - Scraped: Archway
+2024-08-02 11:18:23,601 - INFO - Scraped: Elastos
+2024-08-02 11:18:23,617 - INFO - Scraped: Horizen EON
+2024-08-02 11:18:23,633 - INFO - Scraped: Acala
+2024-08-02 11:18:23,648 - INFO - Scraped: Dogechain
+2024-08-02 11:18:23,680 - INFO - Scraped: Oasis Sapphire
+2024-08-02 11:18:23,695 - INFO - Scraped: Kroma
+2024-08-02 11:18:23,711 - INFO - Scraped: Everscale
+2024-08-02 11:18:23,737 - INFO - Scraped: FunctionX
+2024-08-02 11:18:23,748 - INFO - Scraped: aelf
+2024-08-02 11:18:23,763 - INFO - Scraped: Harmony
+2024-08-02 11:18:23,779 - INFO - Scraped: Terra Classic
+2024-08-02 11:18:23,794 - INFO - Scraped: OKTChain
+2024-08-02 11:18:23,810 - INFO - Scraped: DeFiVerse
+2024-08-02 11:18:23,826 - INFO - Scraped: Bahamut
+2024-08-02 11:18:23,841 - INFO - Scraped: Theta
+2024-08-02 11:18:23,878 - INFO - Scraped: ShimmerEVM
+2024-08-02 11:18:23,887 - INFO - Scraped: ZetaChain
+2024-08-02 11:18:23,902 - INFO - Scraped: Hydra
+2024-08-02 11:18:23,918 - INFO - Scraped: Fuse
+2024-08-02 11:18:23,933 - INFO - Scraped: XPLA
+2024-08-02 11:18:23,964 - INFO - Scraped: KCC
+2024-08-02 11:18:23,980 - INFO - Scraped: Zilliqa
+2024-08-02 11:18:26,098 - INFO - Scraped: Hydra
+2024-08-02 11:18:26,123 - INFO - Scraped: Fuse
+2024-08-02 11:18:26,137 - INFO - Scraped: XPLA
+2024-08-02 11:18:26,158 - INFO - Scraped: KCC
+2024-08-02 11:18:26,179 - INFO - Scraped: Zilliqa
+2024-08-02 11:18:26,200 - INFO - Scraped: Songbird
+2024-08-02 11:18:26,220 - INFO - Scraped: Arbitrum Nova
+2024-08-02 11:18:26,234 - INFO - Scraped: Shibarium
+2024-08-02 11:18:26,255 - INFO - Scraped: SXnetwork
+2024-08-02 11:18:26,277 - INFO - Scraped: Nolus
+2024-08-02 11:18:26,297 - INFO - Scraped: Equilibrium
+2024-08-02 11:18:26,317 - INFO - Scraped: Oasys
+2024-08-02 11:18:26,332 - INFO - Scraped: IOTA EVM
+2024-08-02 11:18:26,353 - INFO - Scraped: Neon
+2024-08-02 11:18:26,373 - INFO - Scraped: Velas
+2024-08-02 11:18:26,387 - INFO - Scraped: Naka
+2024-08-02 11:18:26,408 - INFO - Scraped: HAQQ
+2024-08-02 11:18:26,432 - INFO - Scraped: Evmos
+2024-08-02 11:18:26,450 - INFO - Scraped: Oasis Emerald
+2024-08-02 11:18:26,471 - INFO - Scraped: Xai
+2024-08-02 11:18:26,491 - INFO - Scraped: Milkomeda C1
+2024-08-02 11:18:26,505 - INFO - Scraped: Obyte
+2024-08-02 11:18:26,526 - INFO - Scraped: RENEC
+2024-08-02 11:18:26,547 - INFO - Scraped: CosmosHub
+2024-08-02 11:18:26,568 - INFO - Scraped: Elysium
+2024-08-02 11:18:28,655 - INFO - Scraped: Milkomeda C1
+2024-08-02 11:18:28,673 - INFO - Scraped: Obyte
+2024-08-02 11:18:28,691 - INFO - Scraped: RENEC
+2024-08-02 11:18:28,710 - INFO - Scraped: CosmosHub
+2024-08-02 11:18:28,727 - INFO - Scraped: Elysium
+2024-08-02 11:18:28,746 - INFO - Scraped: Sanko
+2024-08-02 11:18:28,765 - INFO - Scraped: BEVM
+2024-08-02 11:18:28,784 - INFO - Scraped: ThunderCore
+2024-08-02 11:18:28,804 - INFO - Scraped: SatoshiVM
+2024-08-02 11:18:28,823 - INFO - Scraped: Wax
+2024-08-02 11:18:28,845 - INFO - Scraped: Energi
+2024-08-02 11:18:28,867 - INFO - Scraped: LightLink
+2024-08-02 11:18:28,889 - INFO - Scraped: Zora
+2024-08-02 11:18:28,910 - INFO - Scraped: Concordium
+2024-08-02 11:18:28,931 - INFO - Scraped: Saakuru
+2024-08-02 11:18:28,950 - INFO - Scraped: Bostrom
+2024-08-02 11:18:28,968 - INFO - Scraped: Starcoin
+2024-08-02 11:18:28,990 - INFO - Scraped: Q Protocol
+2024-08-02 11:18:29,010 - INFO - Scraped: SKALE Europa
+2024-08-02 11:18:29,033 - INFO - Scraped: VeChain
+2024-08-02 11:18:29,058 - INFO - Scraped: NOS
+2024-08-02 11:18:29,082 - INFO - Scraped: Rangers
+2024-08-02 11:18:29,105 - INFO - Scraped: Rollux
+2024-08-02 11:18:29,135 - INFO - Scraped: Degen
+2024-08-02 11:18:29,154 - INFO - Scraped: Kadena
+2024-08-02 11:18:31,273 - INFO - Scraped: NOS
+2024-08-02 11:18:31,296 - INFO - Scraped: Rangers
+2024-08-02 11:18:31,316 - INFO - Scraped: Rollux
+2024-08-02 11:18:31,338 - INFO - Scraped: Degen
+2024-08-02 11:18:31,360 - INFO - Scraped: Kadena
+2024-08-02 11:18:31,382 - INFO - Scraped: Juno
+2024-08-02 11:18:31,403 - INFO - Scraped: EthereumClassic
+2024-08-02 11:18:31,426 - INFO - Scraped: inEVM
+2024-08-02 11:18:31,446 - INFO - Scraped: Boba_Bnb
+2024-08-02 11:18:31,465 - INFO - Scraped: CSC
+2024-08-02 11:18:31,491 - INFO - Scraped: XRPL
+2024-08-02 11:18:31,513 - INFO - Scraped: Migaloo
+2024-08-02 11:18:31,535 - INFO - Scraped: Crab
+2024-08-02 11:18:31,553 - INFO - Scraped: Chihuahua
+2024-08-02 11:18:31,570 - INFO - Scraped: Bittorrent
+2024-08-02 11:18:31,588 - INFO - Scraped: Heiko
+2024-08-02 11:18:31,608 - INFO - Scraped: Kintsugi
+2024-08-02 11:18:31,628 - INFO - Scraped: Sora
+2024-08-02 11:18:31,646 - INFO - Scraped: DeFiChain EVM
+2024-08-02 11:18:31,664 - INFO - Scraped: ENULS
+2024-08-02 11:18:31,681 - INFO - Scraped: Dash
+2024-08-02 11:18:31,700 - INFO - Scraped: Karura
+2024-08-02 11:18:31,719 - INFO - Scraped: Joltify
+2024-08-02 11:18:31,736 - INFO - Scraped: EnergyWeb
+2024-08-02 11:18:31,754 - INFO - Scraped: Aura Network
+2024-08-02 11:18:33,838 - INFO - Scraped: Dash
+2024-08-02 11:18:33,858 - INFO - Scraped: Karura
+2024-08-02 11:18:33,877 - INFO - Scraped: Joltify
+2024-08-02 11:18:33,895 - INFO - Scraped: EnergyWeb
+2024-08-02 11:18:33,915 - INFO - Scraped: Aura Network
+2024-08-02 11:18:33,932 - INFO - Scraped: Bitrock
+2024-08-02 11:18:33,950 - INFO - Scraped: Heco
+2024-08-02 11:18:33,966 - INFO - Scraped: Ancient8
+2024-08-02 11:18:33,983 - INFO - Scraped: Manta Atlantic
+2024-08-02 11:18:34,002 - INFO - Scraped: Nahmii
+2024-08-02 11:18:34,020 - INFO - Scraped: Step
+2024-08-02 11:18:34,037 - INFO - Scraped: Libre
+2024-08-02 11:18:34,056 - INFO - Scraped: Genesys
+2024-08-02 11:18:34,073 - INFO - Scraped: Etherlink
+2024-08-02 11:18:34,094 - INFO - Scraped: Viction
+2024-08-02 11:18:34,121 - INFO - Scraped: Tombchain
+2024-08-02 11:18:34,138 - INFO - Scraped: Polkadex
+2024-08-02 11:18:34,159 - INFO - Scraped: Massa
+2024-08-02 11:18:34,181 - INFO - Scraped: Stargaze
+2024-08-02 11:18:34,198 - INFO - Scraped: MEER
+2024-08-02 11:18:34,218 - INFO - Scraped: Godwoken
+2024-08-02 11:18:34,237 - INFO - Scraped: Mint
+2024-08-02 11:18:34,255 - INFO - Scraped: Comdex
+2024-08-02 11:18:34,274 - INFO - Scraped: Loop
+2024-08-02 11:18:34,291 - INFO - Scraped: AILayer
+2024-08-02 11:18:36,374 - INFO - Scraped: Godwoken
+2024-08-02 11:18:36,393 - INFO - Scraped: Mint
+2024-08-02 11:18:36,415 - INFO - Scraped: Comdex
+2024-08-02 11:18:36,421 - INFO - Scraped: Loop
+2024-08-02 11:18:36,457 - INFO - Scraped: AILayer
+2024-08-02 11:18:36,485 - INFO - Scraped: Planq
+2024-08-02 11:18:36,512 - INFO - Scraped: Kardia
+2024-08-02 11:18:36,533 - INFO - Scraped: EthereumPoW
+2024-08-02 11:18:36,554 - INFO - Scraped: MVC
+2024-08-02 11:18:36,568 - INFO - Scraped: Areon Network
+2024-08-02 11:18:36,588 - INFO - Scraped: Grove
+2024-08-02 11:18:36,609 - INFO - Scraped: Shiden
+2024-08-02 11:18:36,633 - INFO - Scraped: Newton
+2024-08-02 11:18:36,651 - INFO - Scraped: Endurance
+2024-08-02 11:18:36,668 - INFO - Scraped: Crescent
+2024-08-02 11:18:36,678 - INFO - Scraped: Polkadot
+2024-08-02 11:18:36,693 - INFO - Scraped: Findora
+2024-08-02 11:18:36,709 - INFO - Scraped: RSS3
+2024-08-02 11:18:36,725 - INFO - Scraped: ALV
+2024-08-02 11:18:36,756 - INFO - Scraped: Goerli
+2024-08-02 11:18:36,771 - INFO - Scraped: Lukso
+2024-08-02 11:18:36,787 - INFO - Scraped: Cyber
+2024-08-02 11:18:36,809 - INFO - Scraped: Syscoin
+2024-08-02 11:18:36,830 - INFO - Scraped: JBC
+2024-08-02 11:18:36,851 - INFO - Scraped: REI
+2024-08-02 11:18:38,957 - INFO - Scraped: Lukso
+2024-08-02 11:18:38,972 - INFO - Scraped: Cyber
+2024-08-02 11:18:39,004 - INFO - Scraped: Syscoin
+2024-08-02 11:18:39,019 - INFO - Scraped: JBC
+2024-08-02 11:18:39,035 - INFO - Scraped: REI
+2024-08-02 11:18:39,050 - INFO - Scraped: Darwinia
+2024-08-02 11:18:39,066 - INFO - Scraped: Cube
+2024-08-02 11:18:39,082 - INFO - Scraped: Lachain
+2024-08-02 11:18:39,097 - INFO - Scraped: ETHF
+2024-08-02 11:18:39,113 - INFO - Scraped: MultiVAC
+2024-08-02 11:18:39,129 - INFO - Scraped: HPB
+2024-08-02 11:18:39,160 - INFO - Scraped: GoChain
+2024-08-02 11:18:39,176 - INFO - Scraped: Reya Network
+2024-08-02 11:18:39,191 - INFO - Scraped: Sifchain
+2024-08-02 11:18:39,207 - INFO - Scraped: Bitgert
+2024-08-02 11:18:39,222 - INFO - Scraped: Tenet
+2024-08-02 11:18:39,238 - INFO - Scraped: OntologyEVM
+2024-08-02 11:18:39,269 - INFO - Scraped: Callisto
+2024-08-02 11:18:39,285 - INFO - Scraped: Bitnet
+2024-08-02 11:18:39,300 - INFO - Scraped: REIchain
+2024-08-02 11:18:39,316 - INFO - Scraped: Ham
+2024-08-02 11:18:39,332 - INFO - Scraped: Aeternity
+2024-08-02 11:18:39,347 - INFO - Scraped: Milkomeda A1
+2024-08-02 11:18:39,363 - INFO - Scraped: Rari
+2024-08-02 11:18:39,379 - INFO - Scraped: Lung
+2024-08-02 11:18:41,469 - INFO - Scraped: Ham
+2024-08-02 11:18:41,485 - INFO - Scraped: Aeternity
+2024-08-02 11:18:41,501 - INFO - Scraped: Milkomeda A1
+2024-08-02 11:18:41,516 - INFO - Scraped: Rari
+2024-08-02 11:18:41,532 - INFO - Scraped: Lung
+2024-08-02 11:18:41,547 - INFO - Scraped: Pego
+2024-08-02 11:18:41,563 - INFO - Scraped: Palm
+2024-08-02 11:18:41,579 - INFO - Scraped: AirDAO
+2024-08-02 11:18:41,610 - INFO - Scraped: DSC
+2024-08-02 11:18:41,626 - INFO - Scraped: Bitkub Chain
+2024-08-02 11:18:41,641 - INFO - Scraped: Kusama
+2024-08-02 11:18:41,657 - INFO - Scraped: Celestia
+2024-08-02 11:18:41,672 - INFO - Scraped: Dymension
+2024-08-02 11:18:41,688 - INFO - Scraped: Quicksilver
+2024-08-02 11:18:41,704 - INFO - Scraped: Nibiru
+2024-08-02 11:18:41,719 - INFO - Scraped: Pokt
+2024-08-02 11:18:41,735 - INFO - Scraped: Sommelier
+2024-08-02 11:18:41,751 - INFO - Scraped: Stride
+2024-08-02 11:18:41,766 - INFO - Scraped: Dexit
+2024-08-02 11:18:41,782 - INFO - Scraped: Omax
+2024-08-02 11:18:41,797 - INFO - Scraped: Boba_Avax
+2024-08-02 11:18:41,813 - INFO - Scraped: Stafi
+2024-08-02 11:18:41,829 - INFO - Scraped: OXFUN
+2024-08-02 11:18:41,861 - INFO - Scraped: Empire
+2024-08-02 11:18:41,885 - INFO - Scraped: Hoo
+2024-08-02 11:18:43,969 - INFO - Scraped: Boba_Avax
+2024-08-02 11:18:43,990 - INFO - Scraped: Stafi
+2024-08-02 11:18:44,010 - INFO - Scraped: OXFUN
+2024-08-02 11:18:44,028 - INFO - Scraped: Empire
+2024-08-02 11:18:44,053 - INFO - Scraped: Hoo
+2024-08-02 11:18:44,076 - INFO - Scraped: Echelon
+2024-08-02 11:18:44,098 - INFO - Scraped: CLV
+2024-08-02 11:18:44,119 - INFO - Scraped: zkSync Lite
+2024-08-02 11:18:44,140 - INFO - Scraped: CMP
+2024-08-02 11:18:44,161 - INFO - Scraped: Nova Network
+2024-08-02 11:18:44,182 - INFO - Scraped: Genshiro
+2024-08-02 11:18:44,206 - INFO - Scraped: Lamden
+2024-08-02 11:18:44,229 - INFO - Scraped: Polis
+2024-08-02 11:18:44,247 - INFO - Scraped: ZYX
+2024-08-02 11:18:44,254 - INFO - Scraped: Ubiq
+2024-08-02 11:18:44,270 - INFO - Scraped: Coti
+2024-08-02 11:18:44,285 - INFO - Scraped: Kekchain
+2024-08-02 11:18:44,301 - INFO - Scraped: MUUCHAIN
+2024-08-02 11:18:44,332 - INFO - Scraped: Tlchain
+2024-08-02 11:18:44,348 - INFO - Scraped: Zeniq
+2024-08-02 11:18:44,363 - INFO - Scraped: Bitindi
+2024-08-02 11:18:44,385 - INFO - Scraped: Bone
+2024-08-02 11:18:44,400 - INFO - Scraped: LaChain Network
+2024-08-02 11:18:46,406 - INFO - Data scraped successfully. Total unique elements: 304
+2024-08-02 11:18:46,949 - ERROR - Unexpected error: [Errno 13] Permission denied: 'scraped_data.csv'
+2024-08-02 11:18:46,949 - INFO - Waiting for 5 minutes before the next scrape...
+2024-08-02 11:19:04,733 - INFO - Stopping the script...
+2024-08-02 12:55:03,422 - INFO - Navigating...
+2024-08-02 12:55:08,066 - INFO - Navigated! Starting to scrape...
+2024-08-02 12:55:18,248 - INFO - Reached the bottom of the page or maximum scroll attempts
+2024-08-02 12:55:18,297 - INFO - Last element number: 304
+2024-08-02 12:55:20,367 - INFO - Scraped: Ethereum
+2024-08-02 12:55:20,399 - INFO - Scraped: Tron
+2024-08-02 12:55:20,430 - INFO - Scraped: Solana
+2024-08-02 12:55:20,446 - INFO - Scraped: BSC
+2024-08-02 12:55:20,461 - INFO - Scraped: Arbitrum
+2024-08-02 12:55:20,492 - INFO - Scraped: Base
+2024-08-02 12:55:22,576 - INFO - Scraped: Tron
+2024-08-02 12:55:22,592 - INFO - Scraped: Solana
+2024-08-02 12:55:22,607 - INFO - Scraped: BSC
+2024-08-02 12:55:22,639 - INFO - Scraped: Arbitrum
+2024-08-02 12:55:22,654 - INFO - Scraped: Base
+2024-08-02 12:55:22,670 - INFO - Scraped: Blast
+2024-08-02 12:55:22,701 - INFO - Scraped: Avalanche
+2024-08-02 12:55:22,717 - INFO - Scraped: Polygon
+2024-08-02 12:55:22,732 - INFO - Scraped: TON
+2024-08-02 12:55:22,748 - INFO - Scraped: Scroll
+2024-08-02 12:55:22,779 - INFO - Scraped: Optimism
+2024-08-02 12:55:22,795 - INFO - Scraped: Bitcoin
+2024-08-02 12:55:22,810 - INFO - Scraped: Linea
+2024-08-02 12:55:22,842 - INFO - Scraped: Hyperliquid
+2024-08-02 12:55:22,857 - INFO - Scraped: Mantle
+2024-08-02 12:55:22,873 - INFO - Scraped: zkLink Nova
+2024-08-02 12:55:22,889 - INFO - Scraped: Mode
+2024-08-02 12:55:22,920 - INFO - Scraped: Sui
+2024-08-02 12:55:22,935 - INFO - Scraped: Cronos
+2024-08-02 12:55:22,951 - INFO - Scraped: Aptos
+2024-08-02 12:55:22,967 - INFO - Scraped: Bitlayer
+2024-08-02 12:55:22,982 - INFO - Scraped: PulseChain
+2024-08-02 12:55:22,998 - INFO - Scraped: Thorchain
+2024-08-02 12:55:23,029 - INFO - Scraped: Starknet
+2024-08-02 12:55:23,045 - INFO - Scraped: Gnosis
+2024-08-02 12:55:25,135 - INFO - Scraped: Bitlayer
+2024-08-02 12:55:25,151 - INFO - Scraped: PulseChain
+2024-08-02 12:55:25,167 - INFO - Scraped: Thorchain
+2024-08-02 12:55:25,198 - INFO - Scraped: Starknet
+2024-08-02 12:55:25,213 - INFO - Scraped: Gnosis
+2024-08-02 12:55:25,229 - INFO - Scraped: Near
+2024-08-02 12:55:25,260 - INFO - Scraped: Cardano
+2024-08-02 12:55:25,276 - INFO - Scraped: Merlin
+2024-08-02 12:55:25,292 - INFO - Scraped: Rootstock
+2024-08-02 12:55:25,307 - INFO - Scraped: CORE
+2024-08-02 12:55:25,338 - INFO - Scraped: Kava
+2024-08-02 12:55:25,354 - INFO - Scraped: dYdX
+2024-08-02 12:55:25,370 - INFO - Scraped: Ronin
+2024-08-02 12:55:25,401 - INFO - Scraped: Mixin
+2024-08-02 12:55:25,417 - INFO - Scraped: EOS
+2024-08-02 12:55:25,448 - INFO - Scraped: MultiversX
+2024-08-02 12:55:25,463 - INFO - Scraped: Fusion
+2024-08-02 12:55:25,479 - INFO - Scraped: Osmosis
+2024-08-02 12:55:25,495 - INFO - Scraped: BSquared
+2024-08-02 12:55:25,510 - INFO - Scraped: zkSync Era
+2024-08-02 12:55:25,542 - INFO - Scraped: Celo
+2024-08-02 12:55:25,557 - INFO - Scraped: Stacks
+2024-08-02 12:55:25,573 - INFO - Scraped: Fantom
+2024-08-02 12:55:25,595 - INFO - Scraped: Sei
+2024-08-02 12:55:25,610 - INFO - Scraped: Algorand
+2024-08-02 12:55:27,696 - INFO - Scraped: Celo
+2024-08-02 12:55:27,712 - INFO - Scraped: Stacks
+2024-08-02 12:55:27,743 - INFO - Scraped: Fantom
+2024-08-02 12:55:27,759 - INFO - Scraped: Sei
+2024-08-02 12:55:27,775 - INFO - Scraped: Algorand
+2024-08-02 12:55:27,790 - INFO - Scraped: ICP
+2024-08-02 12:55:27,806 - INFO - Scraped: BounceBit
+2024-08-02 12:55:27,837 - INFO - Scraped: Filecoin
+2024-08-02 12:55:27,853 - INFO - Scraped: Hedera
+2024-08-02 12:55:27,868 - INFO - Scraped: K2
+2024-08-02 12:55:27,899 - INFO - Scraped: Metis
+2024-08-02 12:55:27,915 - INFO - Scraped: Manta
+2024-08-02 12:55:27,946 - INFO - Scraped: Tezos
+2024-08-02 12:55:27,978 - INFO - Scraped: Hydration
+2024-08-02 12:55:27,993 - INFO - Scraped: BOB
+2024-08-02 12:55:28,024 - INFO - Scraped: DefiChain
+2024-08-02 12:55:28,056 - INFO - Scraped: Moonbeam
+2024-08-02 12:55:28,087 - INFO - Scraped: Fraxtal
+2024-08-02 12:55:28,103 - INFO - Scraped: Klaytn
+2024-08-02 12:55:28,134 - INFO - Scraped: Kujira
+2024-08-02 12:55:28,150 - INFO - Scraped: Injective
+2024-08-02 12:55:28,165 - INFO - Scraped: Radix
+2024-08-02 12:55:28,181 - INFO - Scraped: Telos
+2024-08-02 12:55:28,212 - INFO - Scraped: NEO
+2024-08-02 12:55:28,228 - INFO - Scraped: opBNB
+2024-08-02 12:55:30,319 - INFO - Scraped: Injective
+2024-08-02 12:55:30,335 - INFO - Scraped: Radix
+2024-08-02 12:55:30,350 - INFO - Scraped: Telos
+2024-08-02 12:55:30,382 - INFO - Scraped: NEO
+2024-08-02 12:55:30,397 - INFO - Scraped: opBNB
+2024-08-02 12:55:30,413 - INFO - Scraped: Astar
+2024-08-02 12:55:30,428 - INFO - Scraped: Flow
+2024-08-02 12:55:30,460 - INFO - Scraped: Mayachain
+2024-08-02 12:55:30,475 - INFO - Scraped: Bifrost Network
+2024-08-02 12:55:30,491 - INFO - Scraped: Canto
+2024-08-02 12:55:30,522 - INFO - Scraped: MAP Protocol
+2024-08-02 12:55:30,538 - INFO - Scraped: IoTeX
+2024-08-02 12:55:30,553 - INFO - Scraped: Aurora
+2024-08-02 12:55:30,569 - INFO - Scraped: Zkfair
+2024-08-02 12:55:30,600 - INFO - Scraped: Neutron
+2024-08-02 12:55:30,623 - INFO - Scraped: Bitcoincash
+2024-08-02 12:55:30,638 - INFO - Scraped: Immutable zkEVM
+2024-08-02 12:55:30,653 - INFO - Scraped: Taiko
+2024-08-02 12:55:30,669 - INFO - Scraped: Conflux
+2024-08-02 12:55:30,700 - INFO - Scraped: Secret
+2024-08-02 12:55:30,716 - INFO - Scraped: Polygon zkEVM
+2024-08-02 12:55:30,763 - INFO - Scraped: WEMIX3.0
+2024-08-02 12:55:30,794 - INFO - Scraped: Waves
+2024-08-02 12:55:30,809 - INFO - Scraped: Icon
+2024-08-02 12:55:30,841 - INFO - Scraped: Stellar
+2024-08-02 12:55:32,933 - INFO - Scraped: Polygon zkEVM
+2024-08-02 12:55:32,964 - INFO - Scraped: WEMIX3.0
+2024-08-02 12:55:32,980 - INFO - Scraped: Waves
+2024-08-02 12:55:32,999 - INFO - Scraped: Icon
+2024-08-02 12:55:33,023 - INFO - Scraped: Stellar
+2024-08-02 12:55:33,044 - INFO - Scraped: Venom
+2024-08-02 12:55:33,064 - INFO - Scraped: FSC
+2024-08-02 12:55:33,084 - INFO - Scraped: Chiliz
+2024-08-02 12:55:33,104 - INFO - Scraped: X Layer
+2024-08-02 12:55:33,128 - INFO - Scraped: Bifrost
+2024-08-02 12:55:33,153 - INFO - Scraped: EOS EVM
+2024-08-02 12:55:33,181 - INFO - Scraped: Alephium
+2024-08-02 12:55:33,202 - INFO - Scraped: XDC
+2024-08-02 12:55:33,223 - INFO - Scraped: Flare
+2024-08-02 12:55:33,244 - INFO - Scraped: Ontology
+2024-08-02 12:55:33,265 - INFO - Scraped: Proton
+2024-08-02 12:55:33,286 - INFO - Scraped: Oraichain
+2024-08-02 12:55:33,306 - INFO - Scraped: Onus
+2024-08-02 12:55:33,325 - INFO - Scraped: Parallel
+2024-08-02 12:55:33,346 - INFO - Scraped: Carbon
+2024-08-02 12:55:33,364 - INFO - Scraped: Moonriver
+2024-08-02 12:55:33,384 - INFO - Scraped: smartBCH
+2024-08-02 12:55:33,403 - INFO - Scraped: DFS Network
+2024-08-02 12:55:33,424 - INFO - Scraped: UX
+2024-08-02 12:55:33,443 - INFO - Scraped: Vite
+2024-08-02 12:55:35,534 - INFO - Scraped: Moonriver
+2024-08-02 12:55:35,549 - INFO - Scraped: smartBCH
+2024-08-02 12:55:35,581 - INFO - Scraped: DFS Network
+2024-08-02 12:55:35,596 - INFO - Scraped: UX
+2024-08-02 12:55:35,612 - INFO - Scraped: Vite
+2024-08-02 12:55:35,627 - INFO - Scraped: Astar zkEVM
+2024-08-02 12:55:35,643 - INFO - Scraped: Ultron
+2024-08-02 12:55:35,674 - INFO - Scraped: GodwokenV1
+2024-08-02 12:55:35,690 - INFO - Scraped: re.al
+2024-08-02 12:55:35,705 - INFO - Scraped: Interlay
+2024-08-02 12:55:35,721 - INFO - Scraped: Vision
+2024-08-02 12:55:35,737 - INFO - Scraped: Doge
+2024-08-02 12:55:35,752 - INFO - Scraped: Ergo
+2024-08-02 12:55:35,784 - INFO - Scraped: Terra2
+2024-08-02 12:55:35,799 - INFO - Scraped: Wanchain
+2024-08-02 12:55:35,815 - INFO - Scraped: Nuls
+2024-08-02 12:55:35,830 - INFO - Scraped: Boba
+2024-08-02 12:55:35,846 - INFO - Scraped: Litecoin
+2024-08-02 12:55:35,877 - INFO - Scraped: DFK
+2024-08-02 12:55:35,893 - INFO - Scraped: Persistence
+2024-08-02 12:55:35,909 - INFO - Scraped: Meter
+2024-08-02 12:55:35,924 - INFO - Scraped: Beam
+2024-08-02 12:55:35,955 - INFO - Scraped: Archway
+2024-08-02 12:55:35,971 - INFO - Scraped: Elastos
+2024-08-02 12:55:35,987 - INFO - Scraped: Horizen EON
+2024-08-02 12:55:38,081 - INFO - Scraped: Meter
+2024-08-02 12:55:38,096 - INFO - Scraped: Beam
+2024-08-02 12:55:38,130 - INFO - Scraped: Archway
+2024-08-02 12:55:38,151 - INFO - Scraped: Elastos
+2024-08-02 12:55:38,166 - INFO - Scraped: Horizen EON
+2024-08-02 12:55:38,182 - INFO - Scraped: Acala
+2024-08-02 12:55:38,236 - INFO - Scraped: Dogechain
+2024-08-02 12:55:38,256 - INFO - Scraped: Oasis Sapphire
+2024-08-02 12:55:38,272 - INFO - Scraped: Kroma
+2024-08-02 12:55:38,287 - INFO - Scraped: Everscale
+2024-08-02 12:55:38,318 - INFO - Scraped: FunctionX
+2024-08-02 12:55:38,334 - INFO - Scraped: aelf
+2024-08-02 12:55:38,365 - INFO - Scraped: Harmony
+2024-08-02 12:55:38,393 - INFO - Scraped: Terra Classic
+2024-08-02 12:55:38,424 - INFO - Scraped: OKTChain
+2024-08-02 12:55:38,439 - INFO - Scraped: DeFiVerse
+2024-08-02 12:55:38,455 - INFO - Scraped: Bahamut
+2024-08-02 12:55:38,470 - INFO - Scraped: Theta
+2024-08-02 12:55:38,502 - INFO - Scraped: ShimmerEVM
+2024-08-02 12:55:38,517 - INFO - Scraped: ZetaChain
+2024-08-02 12:55:38,533 - INFO - Scraped: Hydra
+2024-08-02 12:55:38,549 - INFO - Scraped: Fuse
+2024-08-02 12:55:38,564 - INFO - Scraped: XPLA
+2024-08-02 12:55:38,595 - INFO - Scraped: KCC
+2024-08-02 12:55:38,611 - INFO - Scraped: Zilliqa
+2024-08-02 12:55:40,693 - INFO - Scraped: Hydra
+2024-08-02 12:55:40,709 - INFO - Scraped: Fuse
+2024-08-02 12:55:40,738 - INFO - Scraped: XPLA
+2024-08-02 12:55:40,747 - INFO - Scraped: KCC
+2024-08-02 12:55:40,762 - INFO - Scraped: Zilliqa
+2024-08-02 12:55:40,793 - INFO - Scraped: Songbird
+2024-08-02 12:55:40,809 - INFO - Scraped: Arbitrum Nova
+2024-08-02 12:55:40,825 - INFO - Scraped: Shibarium
+2024-08-02 12:55:40,840 - INFO - Scraped: SXnetwork
+2024-08-02 12:55:40,872 - INFO - Scraped: Nolus
+2024-08-02 12:55:40,887 - INFO - Scraped: Equilibrium
+2024-08-02 12:55:40,903 - INFO - Scraped: Oasys
+2024-08-02 12:55:40,918 - INFO - Scraped: IOTA EVM
+2024-08-02 12:55:40,934 - INFO - Scraped: Neon
+2024-08-02 12:55:40,950 - INFO - Scraped: Velas
+2024-08-02 12:55:40,965 - INFO - Scraped: Naka
+2024-08-02 12:55:40,997 - INFO - Scraped: HAQQ
+2024-08-02 12:55:41,012 - INFO - Scraped: Evmos
+2024-08-02 12:55:41,028 - INFO - Scraped: Oasis Emerald
+2024-08-02 12:55:41,043 - INFO - Scraped: Xai
+2024-08-02 12:55:41,059 - INFO - Scraped: Milkomeda C1
+2024-08-02 12:55:41,075 - INFO - Scraped: Obyte
+2024-08-02 12:55:41,106 - INFO - Scraped: RENEC
+2024-08-02 12:55:41,122 - INFO - Scraped: CosmosHub
+2024-08-02 12:55:41,137 - INFO - Scraped: Elysium
+2024-08-02 12:55:43,224 - INFO - Scraped: Milkomeda C1
+2024-08-02 12:55:43,239 - INFO - Scraped: Obyte
+2024-08-02 12:55:43,255 - INFO - Scraped: RENEC
+2024-08-02 12:55:43,271 - INFO - Scraped: CosmosHub
+2024-08-02 12:55:43,302 - INFO - Scraped: Elysium
+2024-08-02 12:55:43,317 - INFO - Scraped: Sanko
+2024-08-02 12:55:43,333 - INFO - Scraped: BEVM
+2024-08-02 12:55:43,349 - INFO - Scraped: ThunderCore
+2024-08-02 12:55:43,364 - INFO - Scraped: SatoshiVM
+2024-08-02 12:55:43,380 - INFO - Scraped: Wax
+2024-08-02 12:55:43,396 - INFO - Scraped: Energi
+2024-08-02 12:55:43,411 - INFO - Scraped: LightLink
+2024-08-02 12:55:43,427 - INFO - Scraped: Zora
+2024-08-02 12:55:43,458 - INFO - Scraped: Concordium
+2024-08-02 12:55:43,474 - INFO - Scraped: Saakuru
+2024-08-02 12:55:43,489 - INFO - Scraped: Bostrom
+2024-08-02 12:55:43,505 - INFO - Scraped: Starcoin
+2024-08-02 12:55:43,521 - INFO - Scraped: Q Protocol
+2024-08-02 12:55:43,536 - INFO - Scraped: SKALE Europa
+2024-08-02 12:55:43,552 - INFO - Scraped: VeChain
+2024-08-02 12:55:43,567 - INFO - Scraped: NOS
+2024-08-02 12:55:43,583 - INFO - Scraped: Rangers
+2024-08-02 12:55:43,599 - INFO - Scraped: Rollux
+2024-08-02 12:55:43,614 - INFO - Scraped: Degen
+2024-08-02 12:55:43,646 - INFO - Scraped: Kadena
+2024-08-02 12:55:45,731 - INFO - Scraped: NOS
+2024-08-02 12:55:45,747 - INFO - Scraped: Rangers
+2024-08-02 12:55:45,768 - INFO - Scraped: Rollux
+2024-08-02 12:55:45,784 - INFO - Scraped: Degen
+2024-08-02 12:55:45,799 - INFO - Scraped: Kadena
+2024-08-02 12:55:45,815 - INFO - Scraped: Juno
+2024-08-02 12:55:45,830 - INFO - Scraped: EthereumClassic
+2024-08-02 12:55:45,846 - INFO - Scraped: inEVM
+2024-08-02 12:55:45,862 - INFO - Scraped: Boba_Bnb
+2024-08-02 12:55:45,877 - INFO - Scraped: CSC
+2024-08-02 12:55:45,893 - INFO - Scraped: XRPL
+2024-08-02 12:55:45,909 - INFO - Scraped: Migaloo
+2024-08-02 12:55:45,924 - INFO - Scraped: Crab
+2024-08-02 12:55:45,940 - INFO - Scraped: Chihuahua
+2024-08-02 12:55:45,971 - INFO - Scraped: Bittorrent
+2024-08-02 12:55:45,987 - INFO - Scraped: Heiko
+2024-08-02 12:55:46,002 - INFO - Scraped: Kintsugi
+2024-08-02 12:55:46,018 - INFO - Scraped: Sora
+2024-08-02 12:55:46,034 - INFO - Scraped: DeFiChain EVM
+2024-08-02 12:55:46,049 - INFO - Scraped: ENULS
+2024-08-02 12:55:46,065 - INFO - Scraped: Dash
+2024-08-02 12:55:46,096 - INFO - Scraped: Karura
+2024-08-02 12:55:46,112 - INFO - Scraped: Joltify
+2024-08-02 12:55:46,127 - INFO - Scraped: EnergyWeb
+2024-08-02 12:55:46,143 - INFO - Scraped: Aura Network
+2024-08-02 12:55:48,229 - INFO - Scraped: Dash
+2024-08-02 12:55:48,244 - INFO - Scraped: Karura
+2024-08-02 12:55:48,260 - INFO - Scraped: Joltify
+2024-08-02 12:55:48,276 - INFO - Scraped: EnergyWeb
+2024-08-02 12:55:48,291 - INFO - Scraped: Aura Network
+2024-08-02 12:55:48,307 - INFO - Scraped: Bitrock
+2024-08-02 12:55:48,338 - INFO - Scraped: Heco
+2024-08-02 12:55:48,354 - INFO - Scraped: Ancient8
+2024-08-02 12:55:48,369 - INFO - Scraped: Manta Atlantic
+2024-08-02 12:55:48,385 - INFO - Scraped: Nahmii
+2024-08-02 12:55:48,401 - INFO - Scraped: Step
+2024-08-02 12:55:48,416 - INFO - Scraped: Libre
+2024-08-02 12:55:48,447 - INFO - Scraped: Genesys
+2024-08-02 12:55:48,463 - INFO - Scraped: Etherlink
+2024-08-02 12:55:48,479 - INFO - Scraped: Viction
+2024-08-02 12:55:48,494 - INFO - Scraped: Tombchain
+2024-08-02 12:55:48,510 - INFO - Scraped: Polkadex
+2024-08-02 12:55:48,526 - INFO - Scraped: Massa
+2024-08-02 12:55:48,541 - INFO - Scraped: Stargaze
+2024-08-02 12:55:48,557 - INFO - Scraped: MEER
+2024-08-02 12:55:48,572 - INFO - Scraped: Godwoken
+2024-08-02 12:55:48,588 - INFO - Scraped: Mint
+2024-08-02 12:55:48,604 - INFO - Scraped: Comdex
+2024-08-02 12:55:48,619 - INFO - Scraped: Loop
+2024-08-02 12:55:48,651 - INFO - Scraped: AILayer
+2024-08-02 12:55:50,727 - INFO - Scraped: Godwoken
+2024-08-02 12:55:50,742 - INFO - Scraped: Mint
+2024-08-02 12:55:50,774 - INFO - Scraped: Comdex
+2024-08-02 12:55:50,791 - INFO - Scraped: Loop
+2024-08-02 12:55:50,796 - INFO - Scraped: AILayer
+2024-08-02 12:55:50,811 - INFO - Scraped: Planq
+2024-08-02 12:55:50,842 - INFO - Scraped: Kardia
+2024-08-02 12:55:50,857 - INFO - Scraped: EthereumPoW
+2024-08-02 12:55:50,873 - INFO - Scraped: MVC
+2024-08-02 12:55:50,889 - INFO - Scraped: Areon Network
+2024-08-02 12:55:50,904 - INFO - Scraped: Grove
+2024-08-02 12:55:50,920 - INFO - Scraped: Shiden
+2024-08-02 12:55:50,936 - INFO - Scraped: Newton
+2024-08-02 12:55:50,953 - INFO - Scraped: Endurance
+2024-08-02 12:55:50,978 - INFO - Scraped: Crescent
+2024-08-02 12:55:50,999 - INFO - Scraped: Polkadot
+2024-08-02 12:55:51,014 - INFO - Scraped: Findora
+2024-08-02 12:55:51,030 - INFO - Scraped: RSS3
+2024-08-02 12:55:51,046 - INFO - Scraped: ALV
+2024-08-02 12:55:51,061 - INFO - Scraped: Goerli
+2024-08-02 12:55:51,077 - INFO - Scraped: Lukso
+2024-08-02 12:55:51,093 - INFO - Scraped: Cyber
+2024-08-02 12:55:51,108 - INFO - Scraped: Syscoin
+2024-08-02 12:55:51,124 - INFO - Scraped: JBC
+2024-08-02 12:55:51,155 - INFO - Scraped: REI
+2024-08-02 12:55:53,241 - INFO - Scraped: Lukso
+2024-08-02 12:55:53,256 - INFO - Scraped: Cyber
+2024-08-02 12:55:53,288 - INFO - Scraped: Syscoin
+2024-08-02 12:55:53,303 - INFO - Scraped: JBC
+2024-08-02 12:55:53,319 - INFO - Scraped: REI
+2024-08-02 12:55:53,334 - INFO - Scraped: Darwinia
+2024-08-02 12:55:53,350 - INFO - Scraped: Cube
+2024-08-02 12:55:53,366 - INFO - Scraped: Lachain
+2024-08-02 12:55:53,381 - INFO - Scraped: ETHF
+2024-08-02 12:55:53,397 - INFO - Scraped: MultiVAC
+2024-08-02 12:55:53,413 - INFO - Scraped: HPB
+2024-08-02 12:55:53,428 - INFO - Scraped: GoChain
+2024-08-02 12:55:53,444 - INFO - Scraped: Reya Network
+2024-08-02 12:55:53,459 - INFO - Scraped: Sifchain
+2024-08-02 12:55:53,475 - INFO - Scraped: Bitgert
+2024-08-02 12:55:53,506 - INFO - Scraped: Tenet
+2024-08-02 12:55:53,522 - INFO - Scraped: OntologyEVM
+2024-08-02 12:55:53,538 - INFO - Scraped: Callisto
+2024-08-02 12:55:53,553 - INFO - Scraped: Bitnet
+2024-08-02 12:55:53,569 - INFO - Scraped: REIchain
+2024-08-02 12:55:53,584 - INFO - Scraped: Ham
+2024-08-02 12:55:53,600 - INFO - Scraped: Aeternity
+2024-08-02 12:55:53,616 - INFO - Scraped: Milkomeda A1
+2024-08-02 12:55:53,631 - INFO - Scraped: Rari
+2024-08-02 12:55:53,647 - INFO - Scraped: Lung
+2024-08-02 12:55:55,731 - INFO - Scraped: Ham
+2024-08-02 12:55:55,747 - INFO - Scraped: Aeternity
+2024-08-02 12:55:55,778 - INFO - Scraped: Milkomeda A1
+2024-08-02 12:55:55,794 - INFO - Scraped: Rari
+2024-08-02 12:55:55,816 - INFO - Scraped: Lung
+2024-08-02 12:55:55,831 - INFO - Scraped: Pego
+2024-08-02 12:55:55,847 - INFO - Scraped: Palm
+2024-08-02 12:55:55,863 - INFO - Scraped: AirDAO
+2024-08-02 12:55:55,878 - INFO - Scraped: DSC
+2024-08-02 12:55:55,894 - INFO - Scraped: Bitkub Chain
+2024-08-02 12:55:55,909 - INFO - Scraped: Kusama
+2024-08-02 12:55:55,925 - INFO - Scraped: Celestia
+2024-08-02 12:55:55,956 - INFO - Scraped: Dymension
+2024-08-02 12:55:55,972 - INFO - Scraped: Quicksilver
+2024-08-02 12:55:55,988 - INFO - Scraped: Nibiru
+2024-08-02 12:55:56,003 - INFO - Scraped: Pokt
+2024-08-02 12:55:56,019 - INFO - Scraped: Sommelier
+2024-08-02 12:55:56,034 - INFO - Scraped: Stride
+2024-08-02 12:55:56,050 - INFO - Scraped: Dexit
+2024-08-02 12:55:56,066 - INFO - Scraped: Omax
+2024-08-02 12:55:56,081 - INFO - Scraped: Boba_Avax
+2024-08-02 12:55:56,810 - INFO - Scraped: Stafi
+2024-08-02 12:55:56,825 - INFO - Scraped: OXFUN
+2024-08-02 12:55:56,841 - INFO - Scraped: Empire
+2024-08-02 12:55:56,872 - INFO - Scraped: Hoo
+2024-08-02 12:55:58,971 - INFO - Scraped: Boba_Avax
+2024-08-02 12:55:58,987 - INFO - Scraped: Stafi
+2024-08-02 12:55:59,003 - INFO - Scraped: OXFUN
+2024-08-02 12:55:59,018 - INFO - Scraped: Empire
+2024-08-02 12:55:59,034 - INFO - Scraped: Hoo
+2024-08-02 12:55:59,049 - INFO - Scraped: Echelon
+2024-08-02 12:55:59,081 - INFO - Scraped: CLV
+2024-08-02 12:55:59,096 - INFO - Scraped: zkSync Lite
+2024-08-02 12:55:59,112 - INFO - Scraped: CMP
+2024-08-02 12:55:59,128 - INFO - Scraped: Nova Network
+2024-08-02 12:55:59,143 - INFO - Scraped: Genshiro
+2024-08-02 12:55:59,159 - INFO - Scraped: Lamden
+2024-08-02 12:55:59,190 - INFO - Scraped: Polis
+2024-08-02 12:55:59,206 - INFO - Scraped: ZYX
+2024-08-02 12:55:59,221 - INFO - Scraped: Ubiq
+2024-08-02 12:55:59,237 - INFO - Scraped: Coti
+2024-08-02 12:55:59,253 - INFO - Scraped: Kekchain
+2024-08-02 12:55:59,268 - INFO - Scraped: MUUCHAIN
+2024-08-02 12:55:59,284 - INFO - Scraped: Tlchain
+2024-08-02 12:55:59,300 - INFO - Scraped: Zeniq
+2024-08-02 12:55:59,315 - INFO - Scraped: Bitindi
+2024-08-02 12:55:59,346 - INFO - Scraped: Bone
+2024-08-02 12:55:59,362 - INFO - Scraped: LaChain Network
+2024-08-02 12:56:01,373 - INFO - Data scraped successfully. Total unique elements: 304
+2024-08-02 12:56:01,775 - ERROR - Unexpected error: [Errno 13] Permission denied: 'scraped_data.csv'
+2024-08-02 12:56:01,775 - INFO - Waiting for 5 minutes before the next scrape...
+2024-08-02 12:56:39,554 - INFO - Stopping the script...
+2024-08-02 12:59:38,455 - INFO - Navigating...
+2024-08-02 12:59:42,860 - INFO - Navigated! Starting to scrape...
+2024-08-02 12:59:53,064 - INFO - Reached the bottom of the page or maximum scroll attempts
+2024-08-02 12:59:53,117 - INFO - Last element number: 304
+2024-08-02 13:02:10,384 - INFO - Scraped: Ethereum
+2024-08-02 13:02:10,417 - INFO - Scraped: Tron
+2024-08-02 13:02:10,431 - INFO - Scraped: Solana
+2024-08-02 13:02:10,447 - INFO - Scraped: BSC
+2024-08-02 13:02:10,463 - INFO - Scraped: Arbitrum
+2024-08-02 13:02:10,478 - INFO - Scraped: Base
+2024-08-02 13:02:12,582 - INFO - Scraped: Tron
+2024-08-02 13:02:12,599 - INFO - Scraped: Solana
+2024-08-02 13:02:12,620 - INFO - Scraped: BSC
+2024-08-02 13:02:12,642 - INFO - Scraped: Arbitrum
+2024-08-02 13:02:12,663 - INFO - Scraped: Base
+2024-08-02 13:02:12,686 - INFO - Scraped: Blast
+2024-08-02 13:02:12,705 - INFO - Scraped: Avalanche
+2024-08-02 13:02:12,729 - INFO - Scraped: Polygon
+2024-08-02 13:02:12,754 - INFO - Scraped: TON
+2024-08-02 13:02:12,774 - INFO - Scraped: Scroll
+2024-08-02 13:02:12,802 - INFO - Scraped: Optimism
+2024-08-02 13:02:12,822 - INFO - Scraped: Bitcoin
+2024-08-02 13:02:12,842 - INFO - Scraped: Linea
+2024-08-02 13:02:12,857 - INFO - Scraped: Hyperliquid
+2024-08-02 13:02:12,871 - INFO - Scraped: Mantle
+2024-08-02 13:02:12,886 - INFO - Scraped: zkLink Nova
+2024-08-02 13:02:12,918 - INFO - Scraped: Mode
+2024-08-02 13:02:12,932 - INFO - Scraped: Sui
+2024-08-02 13:02:12,954 - INFO - Scraped: Cronos
+2024-08-02 13:02:12,975 - INFO - Scraped: Aptos
+2024-08-02 13:02:12,989 - INFO - Scraped: Bitlayer
+2024-08-02 13:02:13,017 - INFO - Scraped: PulseChain
+2024-08-02 13:02:13,030 - INFO - Scraped: Thorchain
+2024-08-02 13:02:13,058 - INFO - Scraped: Starknet
+2024-08-02 13:02:13,079 - INFO - Scraped: Gnosis
+2024-08-02 13:02:15,155 - INFO - Scraped: Bitlayer
+2024-08-02 13:02:15,170 - INFO - Scraped: PulseChain
+2024-08-02 13:02:15,202 - INFO - Scraped: Thorchain
+2024-08-02 13:02:15,217 - INFO - Scraped: Starknet
+2024-08-02 13:02:15,233 - INFO - Scraped: Gnosis
+2024-08-02 13:02:15,248 - INFO - Scraped: Near
+2024-08-02 13:02:15,264 - INFO - Scraped: Cardano
+2024-08-02 13:02:15,295 - INFO - Scraped: Merlin
+2024-08-02 13:02:15,311 - INFO - Scraped: Rootstock
+2024-08-02 13:02:15,327 - INFO - Scraped: CORE
+2024-08-02 13:02:15,342 - INFO - Scraped: Kava
+2024-08-02 13:02:15,358 - INFO - Scraped: dYdX
+2024-08-02 13:02:15,373 - INFO - Scraped: Ronin
+2024-08-02 13:02:15,402 - INFO - Scraped: Mixin
+2024-08-02 13:02:15,421 - INFO - Scraped: EOS
+2024-08-02 13:02:15,436 - INFO - Scraped: MultiversX
+2024-08-02 13:02:15,452 - INFO - Scraped: Fusion
+2024-08-02 13:02:15,468 - INFO - Scraped: Osmosis
+2024-08-02 13:02:15,483 - INFO - Scraped: BSquared
+2024-08-02 13:02:15,499 - INFO - Scraped: zkSync Era
+2024-08-02 13:02:15,514 - INFO - Scraped: Celo
+2024-08-02 13:02:15,530 - INFO - Scraped: Stacks
+2024-08-02 13:02:15,546 - INFO - Scraped: Fantom
+2024-08-02 13:02:15,561 - INFO - Scraped: Sei
+2024-08-02 13:02:15,593 - INFO - Scraped: Algorand
+2024-08-02 13:02:17,684 - INFO - Scraped: Celo
+2024-08-02 13:02:17,704 - INFO - Scraped: Stacks
+2024-08-02 13:02:17,725 - INFO - Scraped: Fantom
+2024-08-02 13:02:17,748 - INFO - Scraped: Sei
+2024-08-02 13:02:17,771 - INFO - Scraped: Algorand
+2024-08-02 13:02:17,792 - INFO - Scraped: ICP
+2024-08-02 13:02:17,812 - INFO - Scraped: BounceBit
+2024-08-02 13:02:17,832 - INFO - Scraped: Filecoin
+2024-08-02 13:02:17,853 - INFO - Scraped: Hedera
+2024-08-02 13:02:17,872 - INFO - Scraped: K2
+2024-08-02 13:02:17,892 - INFO - Scraped: Metis
+2024-08-02 13:02:17,913 - INFO - Scraped: Manta
+2024-08-02 13:02:17,933 - INFO - Scraped: Tezos
+2024-08-02 13:02:17,953 - INFO - Scraped: Hydration
+2024-08-02 13:02:17,975 - INFO - Scraped: BOB
+2024-08-02 13:02:17,997 - INFO - Scraped: DefiChain
+2024-08-02 13:02:18,018 - INFO - Scraped: Moonbeam
+2024-08-02 13:02:18,038 - INFO - Scraped: Fraxtal
+2024-08-02 13:02:18,060 - INFO - Scraped: Klaytn
+2024-08-02 13:02:18,079 - INFO - Scraped: Kujira
+2024-08-02 13:02:18,100 - INFO - Scraped: Injective
+2024-08-02 13:02:18,119 - INFO - Scraped: Radix
+2024-08-02 13:02:18,138 - INFO - Scraped: Telos
+2024-08-02 13:02:18,155 - INFO - Scraped: NEO
+2024-08-02 13:02:18,175 - INFO - Scraped: opBNB
+2024-08-02 13:02:20,247 - INFO - Scraped: Injective
+2024-08-02 13:02:20,263 - INFO - Scraped: Radix
+2024-08-02 13:02:20,279 - INFO - Scraped: Telos
+2024-08-02 13:02:20,310 - INFO - Scraped: NEO
+2024-08-02 13:02:20,325 - INFO - Scraped: opBNB
+2024-08-02 13:02:20,341 - INFO - Scraped: Astar
+2024-08-02 13:02:20,357 - INFO - Scraped: Flow
+2024-08-02 13:02:20,372 - INFO - Scraped: Mayachain
+2024-08-02 13:02:20,404 - INFO - Scraped: Bifrost Network
+2024-08-02 13:02:20,419 - INFO - Scraped: Canto
+2024-08-02 13:02:20,443 - INFO - Scraped: MAP Protocol
+2024-08-02 13:02:20,461 - INFO - Scraped: IoTeX
+2024-08-02 13:02:20,482 - INFO - Scraped: Aurora
+2024-08-02 13:02:20,503 - INFO - Scraped: Zkfair
+2024-08-02 13:02:20,524 - INFO - Scraped: Neutron
+2024-08-02 13:02:20,547 - INFO - Scraped: Bitcoincash
+2024-08-02 13:02:20,569 - INFO - Scraped: Immutable zkEVM
+2024-08-02 13:02:20,602 - INFO - Scraped: Taiko
+2024-08-02 13:02:20,634 - INFO - Scraped: Conflux
+2024-08-02 13:02:20,654 - INFO - Scraped: Secret
+2024-08-02 13:02:20,672 - INFO - Scraped: Polygon zkEVM
+2024-08-02 13:02:20,689 - INFO - Scraped: WEMIX3.0
+2024-08-02 13:02:20,704 - INFO - Scraped: Waves
+2024-08-02 13:02:20,726 - INFO - Scraped: Icon
+2024-08-02 13:02:20,744 - INFO - Scraped: Stellar
+2024-08-02 13:02:22,832 - INFO - Scraped: Polygon zkEVM
+2024-08-02 13:02:22,851 - INFO - Scraped: WEMIX3.0
+2024-08-02 13:02:22,863 - INFO - Scraped: Waves
+2024-08-02 13:02:22,883 - INFO - Scraped: Icon
+2024-08-02 13:02:22,898 - INFO - Scraped: Stellar
+2024-08-02 13:02:22,914 - INFO - Scraped: Venom
+2024-08-02 13:02:22,929 - INFO - Scraped: FSC
+2024-08-02 13:02:22,945 - INFO - Scraped: Chiliz
+2024-08-02 13:02:22,961 - INFO - Scraped: X Layer
+2024-08-02 13:02:22,992 - INFO - Scraped: Bifrost
+2024-08-02 13:02:23,013 - INFO - Scraped: EOS EVM
+2024-08-02 13:02:23,022 - INFO - Scraped: Alephium
+2024-08-02 13:02:23,043 - INFO - Scraped: XDC
+2024-08-02 13:02:23,064 - INFO - Scraped: Flare
+2024-08-02 13:02:23,080 - INFO - Scraped: Ontology
+2024-08-02 13:02:23,096 - INFO - Scraped: Proton
+2024-08-02 13:02:23,111 - INFO - Scraped: Oraichain
+2024-08-02 13:02:23,127 - INFO - Scraped: Onus
+2024-08-02 13:02:23,143 - INFO - Scraped: Parallel
+2024-08-02 13:02:23,158 - INFO - Scraped: Carbon
+2024-08-02 13:02:23,189 - INFO - Scraped: Moonriver
+2024-08-02 13:02:23,205 - INFO - Scraped: smartBCH
+2024-08-02 13:02:23,221 - INFO - Scraped: DFS Network
+2024-08-02 13:02:23,244 - INFO - Scraped: UX
+2024-08-02 13:02:23,259 - INFO - Scraped: Vite
+2024-08-02 13:02:25,344 - INFO - Scraped: Moonriver
+2024-08-02 13:02:25,370 - INFO - Scraped: smartBCH
+2024-08-02 13:02:25,408 - INFO - Scraped: DFS Network
+2024-08-02 13:02:25,427 - INFO - Scraped: UX
+2024-08-02 13:02:25,447 - INFO - Scraped: Vite
+2024-08-02 13:02:25,466 - INFO - Scraped: Astar zkEVM
+2024-08-02 13:02:25,485 - INFO - Scraped: Ultron
+2024-08-02 13:02:25,504 - INFO - Scraped: GodwokenV1
+2024-08-02 13:02:25,523 - INFO - Scraped: re.al
+2024-08-02 13:02:25,541 - INFO - Scraped: Interlay
+2024-08-02 13:02:25,560 - INFO - Scraped: Vision
+2024-08-02 13:02:25,578 - INFO - Scraped: Doge
+2024-08-02 13:02:25,598 - INFO - Scraped: Ergo
+2024-08-02 13:02:25,616 - INFO - Scraped: Terra2
+2024-08-02 13:02:25,635 - INFO - Scraped: Wanchain
+2024-08-02 13:02:25,647 - INFO - Scraped: Nuls
+2024-08-02 13:02:25,672 - INFO - Scraped: Boba
+2024-08-02 13:02:25,693 - INFO - Scraped: Litecoin
+2024-08-02 13:02:25,713 - INFO - Scraped: DFK
+2024-08-02 13:02:25,732 - INFO - Scraped: Persistence
+2024-08-02 13:02:25,749 - INFO - Scraped: Meter
+2024-08-02 13:02:25,765 - INFO - Scraped: Beam
+2024-08-02 13:02:25,781 - INFO - Scraped: Archway
+2024-08-02 13:02:25,800 - INFO - Scraped: Elastos
+2024-08-02 13:02:25,822 - INFO - Scraped: Horizen EON
+2024-08-02 13:02:27,897 - INFO - Scraped: Meter
+2024-08-02 13:02:27,925 - INFO - Scraped: Beam
+2024-08-02 13:02:27,943 - INFO - Scraped: Archway
+2024-08-02 13:02:27,963 - INFO - Scraped: Elastos
+2024-08-02 13:02:27,983 - INFO - Scraped: Horizen EON
+2024-08-02 13:02:28,003 - INFO - Scraped: Acala
+2024-08-02 13:02:28,022 - INFO - Scraped: Dogechain
+2024-08-02 13:02:28,041 - INFO - Scraped: Oasis Sapphire
+2024-08-02 13:02:28,060 - INFO - Scraped: Kroma
+2024-08-02 13:02:28,080 - INFO - Scraped: Everscale
+2024-08-02 13:02:28,099 - INFO - Scraped: FunctionX
+2024-08-02 13:02:28,118 - INFO - Scraped: aelf
+2024-08-02 13:02:28,137 - INFO - Scraped: Harmony
+2024-08-02 13:02:28,155 - INFO - Scraped: Terra Classic
+2024-08-02 13:02:28,174 - INFO - Scraped: OKTChain
+2024-08-02 13:02:28,192 - INFO - Scraped: DeFiVerse
+2024-08-02 13:02:28,210 - INFO - Scraped: Bahamut
+2024-08-02 13:02:28,223 - INFO - Scraped: Theta
+2024-08-02 13:02:28,240 - INFO - Scraped: ShimmerEVM
+2024-08-02 13:02:28,254 - INFO - Scraped: ZetaChain
+2024-08-02 13:02:28,270 - INFO - Scraped: Hydra
+2024-08-02 13:02:28,286 - INFO - Scraped: Fuse
+2024-08-02 13:02:28,316 - INFO - Scraped: XPLA
+2024-08-02 13:02:28,335 - INFO - Scraped: KCC
+2024-08-02 13:02:28,353 - INFO - Scraped: Zilliqa
+2024-08-02 13:02:30,451 - INFO - Scraped: Hydra
+2024-08-02 13:02:30,482 - INFO - Scraped: Fuse
+2024-08-02 13:02:30,508 - INFO - Scraped: XPLA
+2024-08-02 13:02:30,522 - INFO - Scraped: KCC
+2024-08-02 13:02:30,538 - INFO - Scraped: Zilliqa
+2024-08-02 13:02:30,553 - INFO - Scraped: Songbird
+2024-08-02 13:02:30,569 - INFO - Scraped: Arbitrum Nova
+2024-08-02 13:02:30,601 - INFO - Scraped: Shibarium
+2024-08-02 13:02:30,620 - INFO - Scraped: SXnetwork
+2024-08-02 13:02:30,638 - INFO - Scraped: Nolus
+2024-08-02 13:02:30,655 - INFO - Scraped: Equilibrium
+2024-08-02 13:02:30,674 - INFO - Scraped: Oasys
+2024-08-02 13:02:30,692 - INFO - Scraped: IOTA EVM
+2024-08-02 13:02:30,711 - INFO - Scraped: Neon
+2024-08-02 13:02:30,730 - INFO - Scraped: Velas
+2024-08-02 13:02:30,749 - INFO - Scraped: Naka
+2024-08-02 13:02:30,767 - INFO - Scraped: HAQQ
+2024-08-02 13:02:30,787 - INFO - Scraped: Evmos
+2024-08-02 13:02:30,808 - INFO - Scraped: Oasis Emerald
+2024-08-02 13:02:30,828 - INFO - Scraped: Xai
+2024-08-02 13:02:30,846 - INFO - Scraped: Milkomeda C1
+2024-08-02 13:02:30,865 - INFO - Scraped: Obyte
+2024-08-02 13:02:30,885 - INFO - Scraped: RENEC
+2024-08-02 13:02:30,904 - INFO - Scraped: CosmosHub
+2024-08-02 13:02:30,924 - INFO - Scraped: Elysium
+2024-08-02 13:02:32,996 - INFO - Scraped: Milkomeda C1
+2024-08-02 13:02:33,011 - INFO - Scraped: Obyte
+2024-08-02 13:02:33,038 - INFO - Scraped: RENEC
+2024-08-02 13:02:33,057 - INFO - Scraped: CosmosHub
+2024-08-02 13:02:33,077 - INFO - Scraped: Elysium
+2024-08-02 13:02:33,097 - INFO - Scraped: Sanko
+2024-08-02 13:02:33,119 - INFO - Scraped: BEVM
+2024-08-02 13:02:33,138 - INFO - Scraped: ThunderCore
+2024-08-02 13:02:33,158 - INFO - Scraped: SatoshiVM
+2024-08-02 13:02:33,177 - INFO - Scraped: Wax
+2024-08-02 13:02:33,198 - INFO - Scraped: Energi
+2024-08-02 13:02:33,217 - INFO - Scraped: LightLink
+2024-08-02 13:02:33,235 - INFO - Scraped: Zora
+2024-08-02 13:02:33,254 - INFO - Scraped: Concordium
+2024-08-02 13:02:33,273 - INFO - Scraped: Saakuru
+2024-08-02 13:02:33,291 - INFO - Scraped: Bostrom
+2024-08-02 13:02:33,311 - INFO - Scraped: Starcoin
+2024-08-02 13:02:33,329 - INFO - Scraped: Q Protocol
+2024-08-02 13:02:33,348 - INFO - Scraped: SKALE Europa
+2024-08-02 13:02:33,368 - INFO - Scraped: VeChain
+2024-08-02 13:02:33,388 - INFO - Scraped: NOS
+2024-08-02 13:02:33,407 - INFO - Scraped: Rangers
+2024-08-02 13:02:33,428 - INFO - Scraped: Rollux
+2024-08-02 13:02:33,445 - INFO - Scraped: Degen
+2024-08-02 13:02:33,463 - INFO - Scraped: Kadena
+2024-08-02 13:02:35,552 - INFO - Scraped: NOS
+2024-08-02 13:02:35,570 - INFO - Scraped: Rangers
+2024-08-02 13:02:35,589 - INFO - Scraped: Rollux
+2024-08-02 13:02:35,608 - INFO - Scraped: Degen
+2024-08-02 13:02:35,626 - INFO - Scraped: Kadena
+2024-08-02 13:02:35,633 - INFO - Scraped: Juno
+2024-08-02 13:02:35,648 - INFO - Scraped: EthereumClassic
+2024-08-02 13:02:35,664 - INFO - Scraped: inEVM
+2024-08-02 13:02:35,696 - INFO - Scraped: Boba_Bnb
+2024-08-02 13:02:35,717 - INFO - Scraped: CSC
+2024-08-02 13:02:35,732 - INFO - Scraped: XRPL
+2024-08-02 13:02:35,748 - INFO - Scraped: Migaloo
+2024-08-02 13:02:35,763 - INFO - Scraped: Crab
+2024-08-02 13:02:35,779 - INFO - Scraped: Chihuahua
+2024-08-02 13:02:35,806 - INFO - Scraped: Bittorrent
+2024-08-02 13:02:35,822 - INFO - Scraped: Heiko
+2024-08-02 13:02:35,837 - INFO - Scraped: Kintsugi
+2024-08-02 13:02:35,853 - INFO - Scraped: Sora
+2024-08-02 13:02:35,868 - INFO - Scraped: DeFiChain EVM
+2024-08-02 13:02:35,884 - INFO - Scraped: ENULS
+2024-08-02 13:02:35,900 - INFO - Scraped: Dash
+2024-08-02 13:02:35,928 - INFO - Scraped: Karura
+2024-08-02 13:02:35,931 - INFO - Scraped: Joltify
+2024-08-02 13:02:35,964 - INFO - Scraped: EnergyWeb
+2024-08-02 13:02:35,982 - INFO - Scraped: Aura Network
+2024-08-02 13:02:38,074 - INFO - Scraped: Dash
+2024-08-02 13:02:38,105 - INFO - Scraped: Karura
+2024-08-02 13:02:38,121 - INFO - Scraped: Joltify
+2024-08-02 13:02:38,137 - INFO - Scraped: EnergyWeb
+2024-08-02 13:02:38,152 - INFO - Scraped: Aura Network
+2024-08-02 13:02:38,168 - INFO - Scraped: Bitrock
+2024-08-02 13:02:38,183 - INFO - Scraped: Heco
+2024-08-02 13:02:38,199 - INFO - Scraped: Ancient8
+2024-08-02 13:02:38,232 - INFO - Scraped: Manta Atlantic
+2024-08-02 13:02:38,250 - INFO - Scraped: Nahmii
+2024-08-02 13:02:38,267 - INFO - Scraped: Step
+2024-08-02 13:02:38,272 - INFO - Scraped: Libre
+2024-08-02 13:02:38,301 - INFO - Scraped: Genesys
+2024-08-02 13:02:38,306 - INFO - Scraped: Etherlink
+2024-08-02 13:02:38,342 - INFO - Scraped: Viction
+2024-08-02 13:02:38,364 - INFO - Scraped: Tombchain
+2024-08-02 13:02:38,380 - INFO - Scraped: Polkadex
+2024-08-02 13:02:38,395 - INFO - Scraped: Massa
+2024-08-02 13:02:38,411 - INFO - Scraped: Stargaze
+2024-08-02 13:02:38,449 - INFO - Scraped: MEER
+2024-08-02 13:02:38,471 - INFO - Scraped: Godwoken
+2024-08-02 13:02:38,490 - INFO - Scraped: Mint
+2024-08-02 13:02:38,508 - INFO - Scraped: Comdex
+2024-08-02 13:02:38,527 - INFO - Scraped: Loop
+2024-08-02 13:02:38,529 - INFO - Scraped: AILayer
+2024-08-02 13:02:40,657 - INFO - Scraped: Godwoken
+2024-08-02 13:02:40,675 - INFO - Scraped: Mint
+2024-08-02 13:02:40,692 - INFO - Scraped: Comdex
+2024-08-02 13:02:40,709 - INFO - Scraped: Loop
+2024-08-02 13:02:40,729 - INFO - Scraped: AILayer
+2024-08-02 13:02:40,748 - INFO - Scraped: Planq
+2024-08-02 13:02:40,766 - INFO - Scraped: Kardia
+2024-08-02 13:02:40,785 - INFO - Scraped: EthereumPoW
+2024-08-02 13:02:40,803 - INFO - Scraped: MVC
+2024-08-02 13:02:40,813 - INFO - Scraped: Areon Network
+2024-08-02 13:02:40,828 - INFO - Scraped: Grove
+2024-08-02 13:02:40,844 - INFO - Scraped: Shiden
+2024-08-02 13:02:40,860 - INFO - Scraped: Newton
+2024-08-02 13:02:40,875 - INFO - Scraped: Endurance
+2024-08-02 13:02:40,907 - INFO - Scraped: Crescent
+2024-08-02 13:02:40,924 - INFO - Scraped: Polkadot
+2024-08-02 13:02:40,943 - INFO - Scraped: Findora
+2024-08-02 13:02:40,960 - INFO - Scraped: RSS3
+2024-08-02 13:02:40,976 - INFO - Scraped: ALV
+2024-08-02 13:02:40,991 - INFO - Scraped: Goerli
+2024-08-02 13:02:41,007 - INFO - Scraped: Lukso
+2024-08-02 13:02:41,031 - INFO - Scraped: Cyber
+2024-08-02 13:02:41,050 - INFO - Scraped: Syscoin
+2024-08-02 13:02:41,068 - INFO - Scraped: JBC
+2024-08-02 13:02:41,087 - INFO - Scraped: REI
+2024-08-02 13:02:43,189 - INFO - Scraped: Lukso
+2024-08-02 13:02:43,205 - INFO - Scraped: Cyber
+2024-08-02 13:02:43,220 - INFO - Scraped: Syscoin
+2024-08-02 13:02:43,236 - INFO - Scraped: JBC
+2024-08-02 13:02:43,251 - INFO - Scraped: REI
+2024-08-02 13:02:43,267 - INFO - Scraped: Darwinia
+2024-08-02 13:02:43,297 - INFO - Scraped: Cube
+2024-08-02 13:02:43,315 - INFO - Scraped: Lachain
+2024-08-02 13:02:43,333 - INFO - Scraped: ETHF
+2024-08-02 13:02:43,351 - INFO - Scraped: MultiVAC
+2024-08-02 13:02:43,370 - INFO - Scraped: HPB
+2024-08-02 13:02:43,387 - INFO - Scraped: GoChain
+2024-08-02 13:02:43,405 - INFO - Scraped: Reya Network
+2024-08-02 13:02:43,423 - INFO - Scraped: Sifchain
+2024-08-02 13:02:43,431 - INFO - Scraped: Bitgert
+2024-08-02 13:02:43,446 - INFO - Scraped: Tenet
+2024-08-02 13:02:43,462 - INFO - Scraped: OntologyEVM
+2024-08-02 13:02:43,477 - INFO - Scraped: Callisto
+2024-08-02 13:02:43,509 - INFO - Scraped: Bitnet
+2024-08-02 13:02:43,524 - INFO - Scraped: REIchain
+2024-08-02 13:02:43,540 - INFO - Scraped: Ham
+2024-08-02 13:02:43,556 - INFO - Scraped: Aeternity
+2024-08-02 13:02:43,571 - INFO - Scraped: Milkomeda A1
+2024-08-02 13:02:43,587 - INFO - Scraped: Rari
+2024-08-02 13:02:43,603 - INFO - Scraped: Lung
+2024-08-02 13:02:45,691 - INFO - Scraped: Ham
+2024-08-02 13:02:45,709 - INFO - Scraped: Aeternity
+2024-08-02 13:02:45,723 - INFO - Scraped: Milkomeda A1
+2024-08-02 13:02:45,754 - INFO - Scraped: Rari
+2024-08-02 13:02:45,770 - INFO - Scraped: Lung
+2024-08-02 13:02:45,785 - INFO - Scraped: Pego
+2024-08-02 13:02:45,801 - INFO - Scraped: Palm
+2024-08-02 13:02:45,825 - INFO - Scraped: AirDAO
+2024-08-02 13:02:45,841 - INFO - Scraped: DSC
+2024-08-02 13:02:45,857 - INFO - Scraped: Bitkub Chain
+2024-08-02 13:02:45,873 - INFO - Scraped: Kusama
+2024-08-02 13:02:45,888 - INFO - Scraped: Celestia
+2024-08-02 13:02:45,904 - INFO - Scraped: Dymension
+2024-08-02 13:02:45,920 - INFO - Scraped: Quicksilver
+2024-08-02 13:02:45,945 - INFO - Scraped: Nibiru
+2024-08-02 13:02:45,959 - INFO - Scraped: Pokt
+2024-08-02 13:02:45,974 - INFO - Scraped: Sommelier
+2024-08-02 13:02:45,990 - INFO - Scraped: Stride
+2024-08-02 13:02:46,006 - INFO - Scraped: Dexit
+2024-08-02 13:02:46,021 - INFO - Scraped: Omax
+2024-08-02 13:02:46,037 - INFO - Scraped: Boba_Avax
+2024-08-02 13:02:46,066 - INFO - Scraped: Stafi
+2024-08-02 13:02:46,070 - INFO - Scraped: OXFUN
+2024-08-02 13:02:46,086 - INFO - Scraped: Empire
+2024-08-02 13:02:46,117 - INFO - Scraped: Hoo
+2024-08-02 13:02:48,188 - INFO - Scraped: Boba_Avax
+2024-08-02 13:02:48,204 - INFO - Scraped: Stafi
+2024-08-02 13:02:48,235 - INFO - Scraped: OXFUN
+2024-08-02 13:02:48,251 - INFO - Scraped: Empire
+2024-08-02 13:02:48,267 - INFO - Scraped: Hoo
+2024-08-02 13:02:48,282 - INFO - Scraped: Echelon
+2024-08-02 13:02:48,298 - INFO - Scraped: CLV
+2024-08-02 13:02:48,326 - INFO - Scraped: zkSync Lite
+2024-08-02 13:02:48,334 - INFO - Scraped: CMP
+2024-08-02 13:02:48,350 - INFO - Scraped: Nova Network
+2024-08-02 13:02:48,365 - INFO - Scraped: Genshiro
+2024-08-02 13:02:48,397 - INFO - Scraped: Lamden
+2024-08-02 13:02:48,412 - INFO - Scraped: Polis
+2024-08-02 13:02:48,428 - INFO - Scraped: ZYX
+2024-08-02 13:02:48,444 - INFO - Scraped: Ubiq
+2024-08-02 13:02:48,459 - INFO - Scraped: Coti
+2024-08-02 13:02:48,475 - INFO - Scraped: Kekchain
+2024-08-02 13:02:48,490 - INFO - Scraped: MUUCHAIN
+2024-08-02 13:02:48,506 - INFO - Scraped: Tlchain
+2024-08-02 13:02:48,522 - INFO - Scraped: Zeniq
+2024-08-02 13:02:48,537 - INFO - Scraped: Bitindi
+2024-08-02 13:02:48,553 - INFO - Scraped: Bone
+2024-08-02 13:02:48,584 - INFO - Scraped: LaChain Network
+2024-08-02 13:02:50,592 - INFO - Data scraped successfully. Total unique elements: 304
+2024-08-02 13:03:04,495 - INFO - Data saved to scraped_data.csv
+2024-08-02 13:03:04,828 - INFO - Waiting for 5 minutes before the next scrape...
+2024-08-02 13:03:31,373 - INFO - Stopping the script...
+2024-08-02 13:03:35,033 - INFO - Navigating...
+2024-08-02 13:03:39,848 - INFO - Navigated! Starting to scrape...
+2024-08-02 13:03:50,066 - INFO - Reached the bottom of the page or maximum scroll attempts
+2024-08-02 13:03:50,110 - INFO - Last element number: 304
+2024-08-02 13:03:52,185 - INFO - Scraped: Ethereum
+2024-08-02 13:03:52,216 - INFO - Scraped: Tron
+2024-08-02 13:03:52,235 - INFO - Scraped: Solana
+2024-08-02 13:03:52,250 - INFO - Scraped: BSC
+2024-08-02 13:03:52,266 - INFO - Scraped: Arbitrum
+2024-08-02 13:03:52,281 - INFO - Scraped: Base
+2024-08-02 13:03:54,388 - INFO - Scraped: Tron
+2024-08-02 13:03:54,403 - INFO - Scraped: Solana
+2024-08-02 13:03:54,418 - INFO - Scraped: BSC
+2024-08-02 13:03:54,434 - INFO - Scraped: Arbitrum
+2024-08-02 13:03:54,450 - INFO - Scraped: Base
+2024-08-02 13:03:54,481 - INFO - Scraped: Blast
+2024-08-02 13:03:54,497 - INFO - Scraped: Avalanche
+2024-08-02 13:03:54,518 - INFO - Scraped: Polygon
+2024-08-02 13:03:54,528 - INFO - Scraped: TON
+2024-08-02 13:03:54,544 - INFO - Scraped: Scroll
+2024-08-02 13:03:54,559 - INFO - Scraped: Optimism
+2024-08-02 13:03:54,575 - INFO - Scraped: Bitcoin
+2024-08-02 13:03:54,606 - INFO - Scraped: Linea
+2024-08-02 13:03:54,622 - INFO - Scraped: Hyperliquid
+2024-08-02 13:03:54,637 - INFO - Scraped: Mantle
+2024-08-02 13:03:54,653 - INFO - Scraped: zkLink Nova
+2024-08-02 13:03:54,669 - INFO - Scraped: Mode
+2024-08-02 13:03:54,684 - INFO - Scraped: Cronos
+2024-08-02 13:03:54,700 - INFO - Scraped: Sui
+2024-08-02 13:03:54,716 - INFO - Scraped: Aptos
+2024-08-02 13:03:54,747 - INFO - Scraped: Bitlayer
+2024-08-02 13:03:54,762 - INFO - Scraped: PulseChain
+2024-08-02 13:03:54,788 - INFO - Scraped: Thorchain
+2024-08-02 13:03:54,806 - INFO - Scraped: Starknet
+2024-08-02 13:03:54,822 - INFO - Scraped: Gnosis
+2024-08-02 13:03:56,938 - INFO - Scraped: Bitlayer
+2024-08-02 13:03:56,953 - INFO - Scraped: PulseChain
+2024-08-02 13:03:56,969 - INFO - Scraped: Thorchain
+2024-08-02 13:03:57,000 - INFO - Scraped: Starknet
+2024-08-02 13:03:57,016 - INFO - Scraped: Gnosis
+2024-08-02 13:03:57,031 - INFO - Scraped: Near
+2024-08-02 13:03:57,047 - INFO - Scraped: Cardano
+2024-08-02 13:03:57,063 - INFO - Scraped: Merlin
+2024-08-02 13:03:57,078 - INFO - Scraped: Rootstock
+2024-08-02 13:03:57,109 - INFO - Scraped: CORE
+2024-08-02 13:03:57,130 - INFO - Scraped: Kava
+2024-08-02 13:03:57,151 - INFO - Scraped: dYdX
+2024-08-02 13:03:57,167 - INFO - Scraped: Ronin
+2024-08-02 13:03:57,182 - INFO - Scraped: Mixin
+2024-08-02 13:03:57,198 - INFO - Scraped: EOS
+2024-08-02 13:03:57,214 - INFO - Scraped: MultiversX
+2024-08-02 13:03:57,229 - INFO - Scraped: Osmosis
+2024-08-02 13:03:57,245 - INFO - Scraped: Fusion
+2024-08-02 13:03:57,260 - INFO - Scraped: BSquared
+2024-08-02 13:03:57,292 - INFO - Scraped: zkSync Era
+2024-08-02 13:03:57,312 - INFO - Scraped: Celo
+2024-08-02 13:03:57,332 - INFO - Scraped: Stacks
+2024-08-02 13:03:57,348 - INFO - Scraped: Sei
+2024-08-02 13:03:57,364 - INFO - Scraped: Fantom
+2024-08-02 13:03:57,379 - INFO - Scraped: Algorand
+2024-08-02 13:03:59,469 - INFO - Scraped: Celo
+2024-08-02 13:03:59,485 - INFO - Scraped: Stacks
+2024-08-02 13:03:59,500 - INFO - Scraped: Sei
+2024-08-02 13:03:59,516 - INFO - Scraped: Fantom
+2024-08-02 13:03:59,532 - INFO - Scraped: Algorand
+2024-08-02 13:03:59,563 - INFO - Scraped: ICP
+2024-08-02 13:03:59,578 - INFO - Scraped: BounceBit
+2024-08-02 13:03:59,594 - INFO - Scraped: Filecoin
+2024-08-02 13:03:59,619 - INFO - Scraped: Hedera
+2024-08-02 13:03:59,631 - INFO - Scraped: K2
+2024-08-02 13:03:59,647 - INFO - Scraped: Metis
+2024-08-02 13:03:59,662 - INFO - Scraped: Tezos
+2024-08-02 13:03:59,678 - INFO - Scraped: Manta
+2024-08-02 13:03:59,694 - INFO - Scraped: Hydration
+2024-08-02 13:03:59,725 - INFO - Scraped: BOB
+2024-08-02 13:03:59,741 - INFO - Scraped: DefiChain
+2024-08-02 13:03:59,756 - INFO - Scraped: Moonbeam
+2024-08-02 13:03:59,774 - INFO - Scraped: Fraxtal
+2024-08-02 13:03:59,788 - INFO - Scraped: Klaytn
+2024-08-02 13:03:59,803 - INFO - Scraped: Kujira
+2024-08-02 13:03:59,819 - INFO - Scraped: Injective
+2024-08-02 13:03:59,850 - INFO - Scraped: Radix
+2024-08-02 13:03:59,866 - INFO - Scraped: Telos
+2024-08-02 13:03:59,881 - INFO - Scraped: NEO
+2024-08-02 13:03:59,897 - INFO - Scraped: opBNB
+2024-08-02 13:04:01,978 - INFO - Scraped: Injective
+2024-08-02 13:04:01,994 - INFO - Scraped: Radix
+2024-08-02 13:04:02,025 - INFO - Scraped: Telos
+2024-08-02 13:04:02,041 - INFO - Scraped: NEO
+2024-08-02 13:04:02,056 - INFO - Scraped: opBNB
+2024-08-02 13:04:02,080 - INFO - Scraped: Astar
+2024-08-02 13:04:02,089 - INFO - Scraped: Flow
+2024-08-02 13:04:02,104 - INFO - Scraped: Mayachain
+2024-08-02 13:04:02,120 - INFO - Scraped: Bifrost Network
+2024-08-02 13:04:02,135 - INFO - Scraped: Canto
+2024-08-02 13:04:02,167 - INFO - Scraped: MAP Protocol
+2024-08-02 13:04:02,182 - INFO - Scraped: IoTeX
+2024-08-02 13:04:02,198 - INFO - Scraped: Aurora
+2024-08-02 13:04:02,213 - INFO - Scraped: Zkfair
+2024-08-02 13:04:02,229 - INFO - Scraped: Neutron
+2024-08-02 13:04:02,245 - INFO - Scraped: Bitcoincash
+2024-08-02 13:04:02,260 - INFO - Scraped: Immutable zkEVM
+2024-08-02 13:04:02,292 - INFO - Scraped: Taiko
+2024-08-02 13:04:02,307 - INFO - Scraped: Secret
+2024-08-02 13:04:02,323 - INFO - Scraped: Conflux
+2024-08-02 13:04:02,352 - INFO - Scraped: Polygon zkEVM
+2024-08-02 13:04:02,360 - INFO - Scraped: WEMIX3.0
+2024-08-02 13:04:02,375 - INFO - Scraped: Waves
+2024-08-02 13:04:02,409 - INFO - Scraped: Icon
+2024-08-02 13:04:02,422 - INFO - Scraped: Stellar
+2024-08-02 13:04:04,506 - INFO - Scraped: Polygon zkEVM
+2024-08-02 13:04:04,522 - INFO - Scraped: WEMIX3.0
+2024-08-02 13:04:04,553 - INFO - Scraped: Waves
+2024-08-02 13:04:04,569 - INFO - Scraped: Icon
+2024-08-02 13:04:04,584 - INFO - Scraped: Stellar
+2024-08-02 13:04:04,600 - INFO - Scraped: Venom
+2024-08-02 13:04:04,616 - INFO - Scraped: FSC
+2024-08-02 13:04:04,647 - INFO - Scraped: Chiliz
+2024-08-02 13:04:04,663 - INFO - Scraped: X Layer
+2024-08-02 13:04:04,678 - INFO - Scraped: Bifrost
+2024-08-02 13:04:04,694 - INFO - Scraped: EOS EVM
+2024-08-02 13:04:04,724 - INFO - Scraped: Alephium
+2024-08-02 13:04:04,769 - INFO - Scraped: XDC
+2024-08-02 13:04:04,788 - INFO - Scraped: Flare
+2024-08-02 13:04:04,819 - INFO - Scraped: Ontology
+2024-08-02 13:04:04,850 - INFO - Scraped: Proton
+2024-08-02 13:04:04,866 - INFO - Scraped: Oraichain
+2024-08-02 13:04:04,881 - INFO - Scraped: Onus
+2024-08-02 13:04:04,913 - INFO - Scraped: Parallel
+2024-08-02 13:04:04,928 - INFO - Scraped: Carbon
+2024-08-02 13:04:04,944 - INFO - Scraped: Moonriver
+2024-08-02 13:04:04,959 - INFO - Scraped: smartBCH
+2024-08-02 13:04:04,975 - INFO - Scraped: DFS Network
+2024-08-02 13:04:05,006 - INFO - Scraped: UX
+2024-08-02 13:04:05,022 - INFO - Scraped: Vite
+2024-08-02 13:04:07,108 - INFO - Scraped: Moonriver
+2024-08-02 13:04:07,123 - INFO - Scraped: smartBCH
+2024-08-02 13:04:07,139 - INFO - Scraped: DFS Network
+2024-08-02 13:04:07,155 - INFO - Scraped: UX
+2024-08-02 13:04:07,186 - INFO - Scraped: Vite
+2024-08-02 13:04:07,202 - INFO - Scraped: Astar zkEVM
+2024-08-02 13:04:07,217 - INFO - Scraped: Ultron
+2024-08-02 13:04:07,248 - INFO - Scraped: GodwokenV1
+2024-08-02 13:04:07,264 - INFO - Scraped: re.al
+2024-08-02 13:04:07,280 - INFO - Scraped: Interlay
+2024-08-02 13:04:07,295 - INFO - Scraped: Doge
+2024-08-02 13:04:07,327 - INFO - Scraped: Vision
+2024-08-02 13:04:07,342 - INFO - Scraped: Ergo
+2024-08-02 13:04:07,358 - INFO - Scraped: Terra2
+2024-08-02 13:04:07,373 - INFO - Scraped: Wanchain
+2024-08-02 13:04:07,405 - INFO - Scraped: Nuls
+2024-08-02 13:04:07,420 - INFO - Scraped: Boba
+2024-08-02 13:04:07,436 - INFO - Scraped: Litecoin
+2024-08-02 13:04:07,467 - INFO - Scraped: DFK
+2024-08-02 13:04:07,483 - INFO - Scraped: Persistence
+2024-08-02 13:04:07,498 - INFO - Scraped: Meter
+2024-08-02 13:04:07,514 - INFO - Scraped: Beam
+2024-08-02 13:04:07,545 - INFO - Scraped: Archway
+2024-08-02 13:04:07,561 - INFO - Scraped: Elastos
+2024-08-02 13:04:07,577 - INFO - Scraped: Acala
+2024-08-02 13:04:09,694 - INFO - Scraped: Meter
+2024-08-02 13:04:09,709 - INFO - Scraped: Beam
+2024-08-02 13:04:09,725 - INFO - Scraped: Archway
+2024-08-02 13:04:09,756 - INFO - Scraped: Elastos
+2024-08-02 13:04:09,772 - INFO - Scraped: Acala
+2024-08-02 13:04:09,787 - INFO - Scraped: Horizen EON
+2024-08-02 13:04:09,803 - INFO - Scraped: Dogechain
+2024-08-02 13:04:09,819 - INFO - Scraped: Oasis Sapphire
+2024-08-02 13:04:09,834 - INFO - Scraped: Kroma
+2024-08-02 13:04:09,850 - INFO - Scraped: FunctionX
+2024-08-02 13:04:09,866 - INFO - Scraped: Everscale
+2024-08-02 13:04:09,897 - INFO - Scraped: aelf
+2024-08-02 13:04:09,912 - INFO - Scraped: Harmony
+2024-08-02 13:04:09,928 - INFO - Scraped: Terra Classic
+2024-08-02 13:04:09,944 - INFO - Scraped: OKTChain
+2024-08-02 13:04:09,959 - INFO - Scraped: DeFiVerse
+2024-08-02 13:04:09,975 - INFO - Scraped: Bahamut
+2024-08-02 13:04:09,991 - INFO - Scraped: Theta
+2024-08-02 13:04:10,006 - INFO - Scraped: ShimmerEVM
+2024-08-02 13:04:10,037 - INFO - Scraped: ZetaChain
+2024-08-02 13:04:10,053 - INFO - Scraped: Hydra
+2024-08-02 13:04:10,069 - INFO - Scraped: XPLA
+2024-08-02 13:04:10,084 - INFO - Scraped: Fuse
+2024-08-02 13:04:10,100 - INFO - Scraped: KCC
+2024-08-02 13:04:10,116 - INFO - Scraped: Songbird
+2024-08-02 13:04:12,202 - INFO - Scraped: Hydra
+2024-08-02 13:04:12,233 - INFO - Scraped: XPLA
+2024-08-02 13:04:12,248 - INFO - Scraped: Fuse
+2024-08-02 13:04:12,264 - INFO - Scraped: KCC
+2024-08-02 13:04:12,280 - INFO - Scraped: Songbird
+2024-08-02 13:04:12,295 - INFO - Scraped: Zilliqa
+2024-08-02 13:04:12,311 - INFO - Scraped: Arbitrum Nova
+2024-08-02 13:04:12,342 - INFO - Scraped: Shibarium
+2024-08-02 13:04:12,358 - INFO - Scraped: SXnetwork
+2024-08-02 13:04:12,373 - INFO - Scraped: Nolus
+2024-08-02 13:04:12,389 - INFO - Scraped: Equilibrium
+2024-08-02 13:04:12,405 - INFO - Scraped: Oasys
+2024-08-02 13:04:12,420 - INFO - Scraped: IOTA EVM
+2024-08-02 13:04:12,436 - INFO - Scraped: Neon
+2024-08-02 13:04:12,467 - INFO - Scraped: Velas
+2024-08-02 13:04:12,483 - INFO - Scraped: Naka
+2024-08-02 13:04:12,498 - INFO - Scraped: HAQQ
+2024-08-02 13:04:12,530 - INFO - Scraped: Evmos
+2024-08-02 13:04:12,553 - INFO - Scraped: Oasis Emerald
+2024-08-02 13:04:12,572 - INFO - Scraped: Xai
+2024-08-02 13:04:12,593 - INFO - Scraped: Milkomeda C1
+2024-08-02 13:04:12,611 - INFO - Scraped: Obyte
+2024-08-02 13:04:12,637 - INFO - Scraped: RENEC
+2024-08-02 13:04:12,658 - INFO - Scraped: CosmosHub
+2024-08-02 13:04:12,673 - INFO - Scraped: Elysium
+2024-08-02 13:04:14,763 - INFO - Scraped: Milkomeda C1
+2024-08-02 13:04:14,779 - INFO - Scraped: Obyte
+2024-08-02 13:04:14,794 - INFO - Scraped: RENEC
+2024-08-02 13:04:14,826 - INFO - Scraped: CosmosHub
+2024-08-02 13:04:14,841 - INFO - Scraped: Elysium
+2024-08-02 13:04:14,857 - INFO - Scraped: Sanko
+2024-08-02 13:04:14,872 - INFO - Scraped: BEVM
+2024-08-02 13:04:14,888 - INFO - Scraped: ThunderCore
+2024-08-02 13:04:14,919 - INFO - Scraped: Wax
+2024-08-02 13:04:14,935 - INFO - Scraped: SatoshiVM
+2024-08-02 13:04:14,951 - INFO - Scraped: Energi
+2024-08-02 13:04:14,966 - INFO - Scraped: LightLink
+2024-08-02 13:04:14,982 - INFO - Scraped: Zora
+2024-08-02 13:04:14,997 - INFO - Scraped: Concordium
+2024-08-02 13:04:15,013 - INFO - Scraped: Saakuru
+2024-08-02 13:04:15,044 - INFO - Scraped: Bostrom
+2024-08-02 13:04:15,061 - INFO - Scraped: Starcoin
+2024-08-02 13:04:15,082 - INFO - Scraped: Q Protocol
+2024-08-02 13:04:15,103 - INFO - Scraped: SKALE Europa
+2024-08-02 13:04:15,117 - INFO - Scraped: VeChain
+2024-08-02 13:04:15,138 - INFO - Scraped: NOS
+2024-08-02 13:04:15,162 - INFO - Scraped: Rangers
+2024-08-02 13:04:15,165 - INFO - Scraped: Degen
+2024-08-02 13:04:15,197 - INFO - Scraped: Rollux
+2024-08-02 13:04:15,212 - INFO - Scraped: Kadena
+2024-08-02 13:04:17,292 - INFO - Scraped: NOS
+2024-08-02 13:04:17,308 - INFO - Scraped: Rangers
+2024-08-02 13:04:17,339 - INFO - Scraped: Degen
+2024-08-02 13:04:17,355 - INFO - Scraped: Rollux
+2024-08-02 13:04:17,370 - INFO - Scraped: Kadena
+2024-08-02 13:04:17,386 - INFO - Scraped: Juno
+2024-08-02 13:04:17,402 - INFO - Scraped: EthereumClassic
+2024-08-02 13:04:17,417 - INFO - Scraped: inEVM
+2024-08-02 13:04:17,433 - INFO - Scraped: CSC
+2024-08-02 13:04:17,448 - INFO - Scraped: Boba_Bnb
+2024-08-02 13:04:17,464 - INFO - Scraped: XRPL
+2024-08-02 13:04:17,480 - INFO - Scraped: Migaloo
+2024-08-02 13:04:17,511 - INFO - Scraped: Crab
+2024-08-02 13:04:17,527 - INFO - Scraped: Bittorrent
+2024-08-02 13:04:17,542 - INFO - Scraped: Chihuahua
+2024-08-02 13:04:17,558 - INFO - Scraped: Heiko
+2024-08-02 13:04:17,573 - INFO - Scraped: Kintsugi
+2024-08-02 13:04:17,589 - INFO - Scraped: DeFiChain EVM
+2024-08-02 13:04:17,605 - INFO - Scraped: Sora
+2024-08-02 13:04:17,620 - INFO - Scraped: ENULS
+2024-08-02 13:04:17,652 - INFO - Scraped: Dash
+2024-08-02 13:04:17,667 - INFO - Scraped: Karura
+2024-08-02 13:04:17,683 - INFO - Scraped: Joltify
+2024-08-02 13:04:17,698 - INFO - Scraped: EnergyWeb
+2024-08-02 13:04:17,714 - INFO - Scraped: Aura Network
+2024-08-02 13:04:19,806 - INFO - Scraped: Dash
+2024-08-02 13:04:19,822 - INFO - Scraped: Karura
+2024-08-02 13:04:19,837 - INFO - Scraped: Joltify
+2024-08-02 13:04:19,853 - INFO - Scraped: EnergyWeb
+2024-08-02 13:04:19,869 - INFO - Scraped: Aura Network
+2024-08-02 13:04:19,884 - INFO - Scraped: Bitrock
+2024-08-02 13:04:19,900 - INFO - Scraped: Heco
+2024-08-02 13:04:19,931 - INFO - Scraped: Ancient8
+2024-08-02 13:04:19,947 - INFO - Scraped: Manta Atlantic
+2024-08-02 13:04:19,963 - INFO - Scraped: Nahmii
+2024-08-02 13:04:19,978 - INFO - Scraped: Step
+2024-08-02 13:04:19,994 - INFO - Scraped: Libre
+2024-08-02 13:04:20,009 - INFO - Scraped: Genesys
+2024-08-02 13:04:20,025 - INFO - Scraped: Etherlink
+2024-08-02 13:04:20,041 - INFO - Scraped: Viction
+2024-08-02 13:04:20,056 - INFO - Scraped: Tombchain
+2024-08-02 13:04:20,088 - INFO - Scraped: Polkadex
+2024-08-02 13:04:20,103 - INFO - Scraped: Massa
+2024-08-02 13:04:20,119 - INFO - Scraped: Stargaze
+2024-08-02 13:04:20,134 - INFO - Scraped: MEER
+2024-08-02 13:04:20,150 - INFO - Scraped: Godwoken
+2024-08-02 13:04:20,166 - INFO - Scraped: Mint
+2024-08-02 13:04:20,197 - INFO - Scraped: Comdex
+2024-08-02 13:04:20,212 - INFO - Scraped: Loop
+2024-08-02 13:04:20,228 - INFO - Scraped: AILayer
+2024-08-02 13:04:22,312 - INFO - Scraped: Godwoken
+2024-08-02 13:04:22,328 - INFO - Scraped: Mint
+2024-08-02 13:04:22,343 - INFO - Scraped: Comdex
+2024-08-02 13:04:22,359 - INFO - Scraped: Loop
+2024-08-02 13:04:22,390 - INFO - Scraped: AILayer
+2024-08-02 13:04:22,406 - INFO - Scraped: Planq
+2024-08-02 13:04:22,421 - INFO - Scraped: Kardia
+2024-08-02 13:04:22,437 - INFO - Scraped: EthereumPoW
+2024-08-02 13:04:22,453 - INFO - Scraped: MVC
+2024-08-02 13:04:22,468 - INFO - Scraped: Grove
+2024-08-02 13:04:22,484 - INFO - Scraped: Shiden
+2024-08-02 13:04:22,499 - INFO - Scraped: Areon Network
+2024-08-02 13:04:22,515 - INFO - Scraped: Endurance
+2024-08-02 13:04:22,531 - INFO - Scraped: Newton
+2024-08-02 13:04:22,562 - INFO - Scraped: Crescent
+2024-08-02 13:04:22,578 - INFO - Scraped: Polkadot
+2024-08-02 13:04:22,593 - INFO - Scraped: Findora
+2024-08-02 13:04:22,609 - INFO - Scraped: RSS3
+2024-08-02 13:04:22,624 - INFO - Scraped: ALV
+2024-08-02 13:04:22,640 - INFO - Scraped: Goerli
+2024-08-02 13:04:22,656 - INFO - Scraped: Lukso
+2024-08-02 13:04:22,687 - INFO - Scraped: Cyber
+2024-08-02 13:04:22,703 - INFO - Scraped: Syscoin
+2024-08-02 13:04:22,718 - INFO - Scraped: JBC
+2024-08-02 13:04:22,734 - INFO - Scraped: REI
+2024-08-02 13:04:24,859 - INFO - Scraped: Lukso
+2024-08-02 13:04:24,874 - INFO - Scraped: Cyber
+2024-08-02 13:04:24,890 - INFO - Scraped: Syscoin
+2024-08-02 13:04:24,905 - INFO - Scraped: JBC
+2024-08-02 13:04:24,921 - INFO - Scraped: REI
+2024-08-02 13:04:24,952 - INFO - Scraped: Darwinia
+2024-08-02 13:04:24,968 - INFO - Scraped: Cube
+2024-08-02 13:04:24,984 - INFO - Scraped: Lachain
+2024-08-02 13:04:24,999 - INFO - Scraped: ETHF
+2024-08-02 13:04:25,015 - INFO - Scraped: MultiVAC
+2024-08-02 13:04:25,030 - INFO - Scraped: HPB
+2024-08-02 13:04:25,046 - INFO - Scraped: GoChain
+2024-08-02 13:04:25,062 - INFO - Scraped: Reya Network
+2024-08-02 13:04:25,077 - INFO - Scraped: Sifchain
+2024-08-02 13:04:25,109 - INFO - Scraped: Bitgert
+2024-08-02 13:04:25,124 - INFO - Scraped: Tenet
+2024-08-02 13:04:25,140 - INFO - Scraped: OntologyEVM
+2024-08-02 13:04:25,155 - INFO - Scraped: Callisto
+2024-08-02 13:04:25,171 - INFO - Scraped: Bitnet
+2024-08-02 13:04:25,187 - INFO - Scraped: REIchain
+2024-08-02 13:04:25,202 - INFO - Scraped: Ham
+2024-08-02 13:04:25,234 - INFO - Scraped: Aeternity
+2024-08-02 13:04:25,249 - INFO - Scraped: Milkomeda A1
+2024-08-02 13:04:25,265 - INFO - Scraped: Rari
+2024-08-02 13:04:25,280 - INFO - Scraped: Lung
+2024-08-02 13:04:27,361 - INFO - Scraped: Ham
+2024-08-02 13:04:27,377 - INFO - Scraped: Aeternity
+2024-08-02 13:04:27,392 - INFO - Scraped: Milkomeda A1
+2024-08-02 13:04:27,408 - INFO - Scraped: Rari
+2024-08-02 13:04:27,439 - INFO - Scraped: Lung
+2024-08-02 13:04:27,455 - INFO - Scraped: Pego
+2024-08-02 13:04:27,471 - INFO - Scraped: Palm
+2024-08-02 13:04:27,486 - INFO - Scraped: AirDAO
+2024-08-02 13:04:27,502 - INFO - Scraped: DSC
+2024-08-02 13:04:27,517 - INFO - Scraped: Bitkub Chain
+2024-08-02 13:04:27,533 - INFO - Scraped: Kusama
+2024-08-02 13:04:27,549 - INFO - Scraped: Celestia
+2024-08-02 13:04:27,580 - INFO - Scraped: Dymension
+2024-08-02 13:04:27,596 - INFO - Scraped: Quicksilver
+2024-08-02 13:04:27,611 - INFO - Scraped: Nibiru
+2024-08-02 13:04:27,627 - INFO - Scraped: Pokt
+2024-08-02 13:04:27,642 - INFO - Scraped: Sommelier
+2024-08-02 13:04:27,658 - INFO - Scraped: Stride
+2024-08-02 13:04:27,674 - INFO - Scraped: Dexit
+2024-08-02 13:04:27,689 - INFO - Scraped: Omax
+2024-08-02 13:04:27,721 - INFO - Scraped: Boba_Avax
+2024-08-02 13:04:27,736 - INFO - Scraped: Stafi
+2024-08-02 13:04:27,752 - INFO - Scraped: OXFUN
+2024-08-02 13:04:27,767 - INFO - Scraped: Empire
+2024-08-02 13:04:27,783 - INFO - Scraped: Hoo
+2024-08-02 13:04:29,870 - INFO - Scraped: Boba_Avax
+2024-08-02 13:04:29,887 - INFO - Scraped: Stafi
+2024-08-02 13:04:29,907 - INFO - Scraped: OXFUN
+2024-08-02 13:04:29,924 - INFO - Scraped: Empire
+2024-08-02 13:04:29,929 - INFO - Scraped: Hoo
+2024-08-02 13:04:29,944 - INFO - Scraped: Echelon
+2024-08-02 13:04:29,977 - INFO - Scraped: CLV
+2024-08-02 13:04:29,991 - INFO - Scraped: zkSync Lite
+2024-08-02 13:04:30,006 - INFO - Scraped: CMP
+2024-08-02 13:04:30,022 - INFO - Scraped: Nova Network
+2024-08-02 13:04:30,037 - INFO - Scraped: Genshiro
+2024-08-02 13:04:30,053 - INFO - Scraped: Lamden
+2024-08-02 13:04:30,069 - INFO - Scraped: Polis
+2024-08-02 13:04:30,084 - INFO - Scraped: ZYX
+2024-08-02 13:04:30,100 - INFO - Scraped: Ubiq
+2024-08-02 13:04:30,116 - INFO - Scraped: Coti
+2024-08-02 13:04:30,147 - INFO - Scraped: Kekchain
+2024-08-02 13:04:30,162 - INFO - Scraped: MUUCHAIN
+2024-08-02 13:04:30,178 - INFO - Scraped: Tlchain
+2024-08-02 13:04:30,194 - INFO - Scraped: Zeniq
+2024-08-02 13:04:30,209 - INFO - Scraped: Bitindi
+2024-08-02 13:04:30,225 - INFO - Scraped: Bone
+2024-08-02 13:04:30,241 - INFO - Scraped: LaChain Network
+2024-08-02 13:04:32,258 - INFO - Data scraped successfully. Total unique elements: 304
+2024-08-02 13:04:32,267 - INFO - Data saved to scraped_data.csv
+2024-08-02 13:04:32,607 - INFO - Waiting for 5 minutes before the next scrape...
+2024-08-02 13:07:35,306 - INFO - Stopping the script...
